@@ -1,0 +1,1048 @@
+,quantity,Date,item,price,category,Store,filename
+0,1.0,30/06/2022,AFTER EIGHT DARK,2.0,Snacks,Sainsbury's,IMG_3214.jpg
+1,6.0,30/06/2022,CLASSIC TOMATOES,0.8,Vegetables,Sainsbury's,IMG_3214.jpg
+2,1.0,30/06/2022,JS LARGE GARLIC,0.65,Vegetables,Sainsbury's,IMG_3214.jpg
+3,1.0,30/06/2022,JS FRESH MINT,0.55,Groceries,Sainsbury's,IMG_3214.jpg
+4,1.0,30/06/2022,TTD EASY PEEL 600G,2.0,Fruits,Sainsbury's,IMG_3214.jpg
+5,3.0,30/06/2022,JSPACK RD ONIONS,0.95,Vegetables,Sainsbury's,IMG_3214.jpg
+6,1.0,30/06/2022,BD COCONUT MILK,2.0,Groceries - Dairy,Sainsbury's,IMG_3214.jpg
+7,1.0,30/06/2022,JS BAG FOR LIFE,0.3,Household,Sainsbury's,IMG_3214.jpg
+8,2.0,06/08/2025,Vita Coco Natural Coconut Water 500 Ml,5.0,Drinks,Tesco,IMG_3848.jpg
+9,1.0,06/08/2025,Wagamama Teriyaki Stir Fry Sauce Mild 120g,1.5,Groceries,Tesco,IMG_3848.jpg
+10,1.0,06/08/2025,Warburtons Crumpets 6 pack,0.79,Bakery,Tesco,IMG_3848.jpg
+11,1.0,06/08/2025,Cadbury Dairy Milk Fruit And Nut Chocolate Bar 180g,3.1,Snacks,Tesco,IMG_3848.jpg
+12,1.0,23/04/2023,SVARTKLINT dc/2pwc 2,30.0,Household,IKEA,IMG_3218.JPG
+13,1.0,02/08/2022,EGG&UMAT,3.1,Groceries,M&S,IMG_3224.JPG
+14,1.0,26/11/2022,ORG GRK STYLE,2.0,Groceries,M&S,IMG_3219.JPG
+15,1.0,26/11/2022,WHISKY SOUR,2.25,Drinks,M&S,IMG_3219.JPG
+16,6.0,26/11/2022,HEINKEN 0% X6,4.5,Drinks,M&S,IMG_3219.JPG
+17,1.0,26/11/2022,WATERCRESS 80g,1.5,Vegetables,M&S,IMG_3219.JPG
+18,2.0,26/11/2022,YOUNG GAR PEA 2,2.0,Groceries,M&S,IMG_3219.JPG
+19,2.0,26/11/2022,WHOLE 2 PINTS,1.3,Groceries,M&S,IMG_3219.JPG
+20,4.0,26/11/2022,SALMON FILLET,9.25,Groceries - Meat,M&S,IMG_3219.JPG
+21,2.0,26/11/2022,ALBACORE TUNA,6.5,Groceries,M&S,IMG_3219.JPG
+22,1.0,26/11/2022,CHRISTMAS PROSE,8.0,Snacks,M&S,IMG_3219.JPG
+23,1.0,26/11/2022,POMEGEANATE 200,3.0,Fruits,M&S,IMG_3219.JPG
+24,1.0,26/11/2022,OLIVE W/ FETA,3.5,Groceries,M&S,IMG_3219.JPG
+25,1.0,26/11/2022,CHK FAJITA WP,3.75,Groceries,M&S,IMG_3219.JPG
+26,1.0,26/11/2022,DIET SPARKLING,1.4,Drinks,M&S,IMG_3219.JPG
+27,1.0,26/11/2022,SUPER WHOLEFOOD,3.6,Groceries,M&S,IMG_3219.JPG
+28,2.272,30/08/2022,WHL MLK 2.272L,1.65,Groceries - Dairy,Sainsbury's,IMG_3222.JPG
+29,1.0,30/08/2022,COCONUT DESS,1.85,Groceries,Sainsbury's,IMG_3222.JPG
+30,4.0,30/08/2022,BAKING POTS X4,0.45,Household,Sainsbury's,IMG_3222.JPG
+31,1.0,30/08/2022,MIXED NUTS 200G,3.2,Snacks,Sainsbury's,IMG_3222.JPG
+32,3.0,30/08/2022,BANANA SINGLE,0.81,Fruits,Sainsbury's,IMG_3222.JPG
+33,1.0,30/08/2022,GRK STYLE YOG500G,1.25,Groceries - Dairy,Sainsbury's,IMG_3222.JPG
+34,1.0,30/08/2022,WHOLEMEAL ROLLS 6PK,0.95,Bakery,Sainsbury's,IMG_3222.JPG
+35,1.0,30/08/2022,CRUSSH CHIPOTLE WRAP,4.45,Groceries,Sainsbury's,IMG_3222.JPG
+36,1.0,30/08/2022,CHICKEN SALAD SW,2.75,Groceries,Sainsbury's,IMG_3222.JPG
+37,1.0,30/08/2022,CHICKEN TRIPLE SW,2.95,Groceries,Sainsbury's,IMG_3222.JPG
+38,1.0,30/08/2022,DBLE CHC COOKIES,1.25,Snacks,Sainsbury's,IMG_3222.JPG
+39,1.0,30/08/2022,FRESH MINT,0.65,Groceries,Sainsbury's,IMG_3222.JPG
+40,1.0,30/08/2022,CORIANDER 30G,0.65,Groceries,Sainsbury's,IMG_3222.JPG
+41,1.0,30/08/2022,FINE BEANS 120G,1.0,Groceries,Sainsbury's,IMG_3222.JPG
+42,1.0,30/08/2022,BAG FOR LIFE,0.3,Household,Sainsbury's,IMG_3222.JPG
+43,1.0,05/12/2023,Flash Speed Mop Refill Pads 12 Pads,3.5,Household,Tesco,IMG_3223.JPG
+44,1.0,05/12/2023,Tesco Coriander 100g,1.25,Groceries,Tesco,IMG_3223.JPG
+45,1.0,05/12/2023,Innocent Smoothie Strawberries & Bananas 750ml,3.5,Drinks,Tesco,IMG_3223.JPG
+46,1.0,05/12/2023,"Tesco British Semi Skimmed Milk 2.2721, 4 Pints",1.45,Groceries - Dairy,Tesco,IMG_3223.JPG
+47,1.0,05/12/2023,Innocent Bolt From The Blue Juice 750ml,3.8,Drinks,Tesco,IMG_3223.JPG
+48,1.0,05/12/2023,Regular Cappuccino + Syrup,1.5,Drinks,Tesco,IMG_3223.JPG
+49,1.0,05/12/2023,Tesco Medium Free Range Eggs 6 Pack,1.5,Groceries,Tesco,IMG_3223.JPG
+50,2.0,05/12/2023,Tesco Ripe & Ready Avocado,1.9,Groceries,Tesco,IMG_3223.JPG
+51,1.0,05/12/2023,Tesco Finest Tomatoes On The Vine 450g,3.45,Groceries,Tesco,IMG_3223.JPG
+52,1.0,05/12/2023,Tesco 2 Cape Hake Fillets 240g,4.4,Groceries - Meat,Tesco,IMG_3223.JPG
+53,1.0,05/12/2023,Tesco 4 Boneless Salmon Fillets 520g,9.5,Groceries - Meat,Tesco,IMG_3223.JPG
+54,1.0,05/12/2023,Chop Chilli Puree 75g,1.6,Groceries,Tesco,IMG_3223.JPG
+55,1.0,05/12/2023,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,6.5,Groceries - Meat,Tesco,IMG_3223.JPG
+56,1.0,05/12/2023,Tesco Pomegranates Each,1.25,Fruits,Tesco,IMG_3223.JPG
+57,1.0,05/12/2023,Tesco White Cabbage Each,0.8,Vegetables,Tesco,IMG_3223.JPG
+58,1.0,05/12/2023,Tesco Chayote Each,0.8,Vegetables,Tesco,IMG_3223.JPG
+59,1.0,05/12/2023,Lindt Lindor Irish Cream Milk Chocolate Truffles 200g,6.0,Snacks,Tesco,IMG_3223.JPG
+60,2.0,05/12/2023,Tesco Pistachio Nuts 200g,5.5,Snacks,Tesco,IMG_3223.JPG
+61,2.0,05/12/2023,Tesco Universal Bag For Life,0.6,Household,Tesco,IMG_3223.JPG
+62,1.0,05/12/2023,Tesco Baby Button Mushrooms 200g,1.15,Groceries,Tesco,IMG_3223.JPG
+63,1.0,05/12/2023,Tesco Greek Salad 185g,2.75,Groceries,Tesco,IMG_3223.JPG
+64,1.0,05/12/2023,Wood Farm 6 Medium Free Range Eggs (1),2.0,Groceries,Tesco,IMG_3223.JPG
+65,2.0,05/12/2023,Tesco Red Seedless Grapes 500g,3.6,Fruits,Tesco,IMG_3223.JPG
+66,1.0,05/12/2023,Tesco Mixed Nuts 225g,3.0,Snacks,Tesco,IMG_3223.JPG
+67,1.0,05/12/2023,Wrigley's Extra Watermelon Gum 60 Pieces 84g,2.75,Snacks,Tesco,IMG_3223.JPG
+68,1.0,05/12/2023,Tesco Piri Piri Half Chicken 880g,6.0,Groceries - Meat,Tesco,IMG_3223.JPG
+69,1.0,05/12/2023,Onken Natural Set Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3223.JPG
+70,1.0,13/09/2022,LAVA JAVA COFFEE,4.4,Drinks,Sainsbury's,IMG_3221.JPG
+71,1.0,13/09/2022,TWN GRN TEA LEM 20S,1.5,Drinks,Sainsbury's,IMG_3221.JPG
+72,1.0,13/09/2022,LAVAZZA QUALITA ROSS,4.15,Drinks,Sainsbury's,IMG_3221.JPG
+73,1.0,13/09/2022,JS CEL STICKS 250G,0.8,Snacks,Sainsbury's,IMG_3221.JPG
+74,1.0,13/09/2022,JS SEA BASS FILLETS,3.85,Groceries - Meat,Sainsbury's,IMG_3221.JPG
+75,1.0,13/09/2022,JS FINE BEANS 120G,1.0,Groceries,Sainsbury's,IMG_3221.JPG
+76,1.0,13/09/2022,JS CHILLIES 20G,0.8,Groceries,Sainsbury's,IMG_3221.JPG
+77,1.0,13/09/2022,JS 2 SALMON FILLETS,4.25,Groceries - Meat,Sainsbury's,IMG_3221.JPG
+78,1.0,13/09/2022,TTDSLTEDCARMCOOKI4PK,1.75,Snacks,Sainsbury's,IMG_3221.JPG
+79,1.0,13/09/2022,JSPACK RD ONIONS X3,0.95,Vegetables,Sainsbury's,IMG_3221.JPG
+80,1.0,13/09/2022,JS FT BANANASX5,1.35,Fruits,Sainsbury's,IMG_3221.JPG
+81,1.0,13/09/2022,MELON GALIA,1.8,Fruits,Sainsbury's,IMG_3221.JPG
+82,1.0,15/10/2023,Plenty Kitchen Towel 200 Sheets 2 Roll,5.25,Household,Tesco,IMG_3209.jpg
+83,1.0,15/10/2023,Cushelle Quilted Raspberry & Rhubarb Toilet Tissue 6 Rolls,7.8,Household,Tesco,IMG_3209.jpg
+84,1.0,15/10/2023,Dettol Antiseptic Disinfectant Liquid 750 MI,3.5,Toiletries,Tesco,IMG_3209.jpg
+85,1.0,15/10/2023,Hg Mould Spray 500ml,5.5,Household,Tesco,IMG_3209.jpg
+86,1.0,15/10/2023,Tesco Four Bean Salad 250g,1.75,Groceries,Tesco,IMG_3209.jpg
+87,1.0,15/10/2023,Suntrail Farms Grapes 500g,1.49,Fruits,Tesco,IMG_3209.jpg
+88,1.0,15/10/2023,Laila Mini Poppadoms Yogurt Mint & Coriander 75g,0.8,Groceries - Dairy,Tesco,IMG_3209.jpg
+89,1.0,15/10/2023,Celebrations Chocolates 370g,4.0,Snacks,Tesco,IMG_3209.jpg
+90,1.0,15/10/2023,Tesco Bananas Loose,0.84,Fruits,Tesco,IMG_3209.jpg
+91,1.0,15/10/2023,Jaffa Orange Pack,2.0,Snacks,Tesco,IMG_3209.jpg
+92,1.0,15/10/2023,"Tesco British Semi Skimmed Milk 2.2721, 4 Pints",1.45,Groceries - Dairy,Tesco,IMG_3209.jpg
+93,1.0,15/10/2023,Tesco Whole Wheat Cous Cous 500g,1.15,Groceries,Tesco,IMG_3209.jpg
+94,1.0,15/10/2023,Onken Natural Set Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3209.jpg
+95,1.0,15/10/2023,Tesco Soup & Broth Mix 500g,1.9,Groceries,Tesco,IMG_3209.jpg
+96,1.0,15/10/2023,Tesco Maple Honey Roasted Nuts 350g,3.5,Snacks,Tesco,IMG_3209.jpg
+97,1.0,15/10/2023,Tesco Organic Cherry On The Vine Tomatoes 200g,1.85,Vegetables,Tesco,IMG_3209.jpg
+98,1.0,15/10/2023,Tesco Pickled Red Cabbage 340g,1.1,Groceries,Tesco,IMG_3209.jpg
+99,1.0,15/10/2023,Eastman's Reduced Fat Houmous 200g,0.89,Groceries,Tesco,IMG_3209.jpg
+100,1.0,15/10/2023,Tesco 2 Battered Cod Fillets 300g,3.6,Groceries - Meat,Tesco,IMG_3209.jpg
+101,1.0,15/10/2023,Tesco 4 Boneless Salmon Fillets 520g,9.75,Groceries - Meat,Tesco,IMG_3209.jpg
+102,1.0,15/10/2023,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,6.5,Groceries - Meat,Tesco,IMG_3209.jpg
+103,1.0,15/10/2023,Tesco Chayote Loose,0.85,Vegetables,Tesco,IMG_3209.jpg
+104,1.0,15/10/2023,Tesco Red Onions Each,0.8,Vegetables,Tesco,IMG_3209.jpg
+105,1.0,15/10/2023,Large Pink Lady Apples Loose Class 1,1.94,Fruits,Tesco,IMG_3209.jpg
+106,1.0,15/10/2023,Tesco British Chicken Thigh Fillets 1kg,6.2,Groceries - Meat,Tesco,IMG_3209.jpg
+107,1.0,15/10/2023,The Thursday Murder Club Richard Osman,5.5,Books,Tesco,IMG_3209.jpg
+108,1.0,15/10/2023,The Man Who Died Twice Richard Osman,5.5,Books,Tesco,IMG_3209.jpg
+109,1.0,15/10/2023,Tesco Limes Minimum 5 Pack,1.19,Fruits,Tesco,IMG_3209.jpg
+110,1.0,15/10/2023,Corona Extra 4x330ml,5.75,Alcohol,Tesco,IMG_3209.jpg
+111,1.0,15/10/2023,Tesco Carrots Loose,0.25,Vegetables,Tesco,IMG_3209.jpg
+112,1.0,15/10/2023,Airwaves Menthol & Eucalyptus Chewing Gum Bottle 46 Pieces,2.25,Snacks,Tesco,IMG_3209.jpg
+113,1.0,15/10/2023,Tesco Raw King Prawns 165g,3.5,Groceries - Meat,Tesco,IMG_3209.jpg
+114,1.0,15/10/2023,Tesco Lemon & Parsley Smoked Mackerel Strips 200g,3.6,Groceries - Meat,Tesco,IMG_3209.jpg
+115,1.0,15/10/2023,Tesco Mooli Each (c),1.7,Vegetables,Tesco,IMG_3209.jpg
+116,1.0,15/10/2023,Heygate Farms Norfolk Potatoes 750g,1.4,Vegetables,Tesco,IMG_3209.jpg
+117,1.0,15/10/2023,Tesco Dudhi Loose,2.17,Vegetables,Tesco,IMG_3209.jpg
+118,1.0,15/10/2023,Tesco Finest Extra Fine Beans 200g,1.5,Groceries,Tesco,IMG_3209.jpg
+119,1.0,15/10/2023,Tesco Plantain Loose,0.46,Fruits,Tesco,IMG_3209.jpg
+120,1.0,15/10/2023,Tesco Tiger Baton,0.7,Snacks,Tesco,IMG_3209.jpg
+121,1.0,15/10/2023,Tesco Classic Round Tomatoes 6 Pack,0.85,Vegetables,Tesco,IMG_3209.jpg
+122,1.0,15/10/2023,Tesco Almonds 200g,2.75,Snacks,Tesco,IMG_3209.jpg
+123,2.0,15/10/2023,Tesco Pistachio Nuts 200g,5.5,Snacks,Tesco,IMG_3209.jpg
+124,2.0,23/05/2023,BUTTER CROISSANT,0.95,Bakery,Sainsbury's,IMG_3208.jpg
+125,2.0,23/05/2023,WHIRL CINNAMON,0.95,Bakery,Sainsbury's,IMG_3208.jpg
+126,1.0,23/05/2023,ALWAYS TWL NRM WING,2.5,Household,Sainsbury's,IMG_3208.jpg
+127,1.0,23/05/2023,HRPC POWERPLUS,2.2,Household,Sainsbury's,IMG_3208.jpg
+128,1.0,23/05/2023,LISTERINE MOUTHWASH,5.5,Toiletries,Sainsbury's,IMG_3208.jpg
+129,1.0,26/11/2022,Salt Pig,8.8,Household,John Lewis,IMG_3220.JPG
+130,1.0,26/11/2022,Kitchen Storage Co,6.5,Household,John Lewis,IMG_3220.JPG
+131,1.0,26/11/2022,Kitchen Utensil,6.0,Household,John Lewis,IMG_3220.JPG
+132,1.0,26/11/2022,Grater or Slicer,36.0,Household,John Lewis,IMG_3220.JPG
+133,1.0,26/11/2022,Coffee Maker Access,4.0,Household,John Lewis,IMG_3220.JPG
+134,1.0,26/11/2022,Sieve,10.0,Household,John Lewis,IMG_3220.JPG
+135,1.0,26/11/2022,Carrier bag charge,0.1,Household,John Lewis,IMG_3220.JPG
+136,1.0,29/10/2023,Tesco british Semi Skimmed Milk 2.27214 Pints,1.45,Groceries - Dairy,Tesco,IMG_3205.jpg
+137,1.0,29/10/2023,Kellogg's Crunchy Nut Oat Granola,0.0,Groceries,Tesco,IMG_3205.jpg
+138,1.0,29/10/2023,Kellogg's Crunchy Nut Barista Chocolate Mocha Flavoured Cereal,3.0,Groceries,Tesco,IMG_3205.jpg
+139,1.0,29/10/2023,Bira Moretti Premium Lager Beer Can 6x330ml,7.75,Alcohol,Tesco,IMG_3205.jpg
+140,2.0,29/10/2023,Tesco Large Free Range Eggs 6 Pack,3.7,Groceries - Dairy,Tesco,IMG_3205.jpg
+141,1.0,29/10/2023,Onken Natural Set Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3205.jpg
+142,1.0,29/10/2023,Innocent Pineapples Bananas & Coconuts Smoothie 750ml,3.5,Drinks,Tesco,IMG_3205.jpg
+143,1.0,29/10/2023,Innocent Smoothie Strawberries Pineapples & Apples 750ml,3.5,Drinks,Tesco,IMG_3205.jpg
+144,1.0,29/10/2023,Tesco Red Seedless Grapes 500g,1.8,Fruits,Tesco,IMG_3205.jpg
+145,1.0,29/10/2023,Tesco All Butter Croissant 2 Pack,1.7,Bakery,Tesco,IMG_3205.jpg
+146,2.0,29/10/2023,Tesco Pistachio Nuts 200g,5.5,Snacks,Tesco,IMG_3205.jpg
+147,1.0,29/10/2023,Tesco Finest Hickory Smoked Nut Selection 225g,4.0,Snacks,Tesco,IMG_3205.jpg
+148,1.0,29/10/2023,Tony's Chocolonely Caramel Sea Salt & Biscuit Mix 100g,2.5,Snacks,Tesco,IMG_3205.jpg
+149,1.0,29/10/2023,Tesco Watercress 80g,1.35,Vegetables,Tesco,IMG_3205.jpg
+150,1.0,29/10/2023,Cadbury Dairy Milk Chocolate Fruit & Nut Bar 110g,1.35,Snacks,Tesco,IMG_3205.jpg
+151,1.0,29/10/2023,Tesco White Cabbage Each,0.8,Vegetables,Tesco,IMG_3205.jpg
+152,1.0,29/10/2023,Tesco Bananas Loose,0.86,Fruits,Tesco,IMG_3205.jpg
+153,1.0,29/10/2023,Tesco Chestnut Baby Button Mushrooms 150g,1.1,Groceries,Tesco,IMG_3205.jpg
+154,1.0,29/10/2023,Tesco Baby Corn 130g,1.3,Vegetables,Tesco,IMG_3205.jpg
+155,1.0,29/10/2023,Tesco Finest Tomatoes On The Vine 450g,1.9,Vegetables,Tesco,IMG_3205.jpg
+156,2.0,29/10/2023,Tesco Perfectly Ripe Mango,1.78,Fruits,Tesco,IMG_3205.jpg
+157,1.0,29/10/2023,Tesco 2 Bone In Salmon Steaks 220g,5.16,Groceries - Meat,Tesco,IMG_3205.jpg
+158,1.0,29/10/2023,Tesco British Chicken Thighs 1kg,3.0,Groceries - Meat,Tesco,IMG_3205.jpg
+159,1.0,29/10/2023,Tesco Sweet Crisp Salad 128g,1.15,Groceries,Tesco,IMG_3205.jpg
+160,1.0,29/10/2023,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,6.5,Groceries - Meat,Tesco,IMG_3205.jpg
+161,2.0,29/10/2023,Tesco Ready To Eat Large Avocados Each,1.78,Vegetables,Tesco,IMG_3205.jpg
+162,1.0,29/10/2023,Tesco Large Spring Onions Bunched 130g,1.0,Vegetables,Tesco,IMG_3205.jpg
+163,1.0,29/10/2023,Jaffa Orange Pack,2.0,Fruits,Tesco,IMG_3205.jpg
+164,1.0,29/10/2023,Tesco 2 Boneless Mackerel Fillets 160g,2.5,Groceries - Meat,Tesco,IMG_3205.jpg
+165,1.0,29/10/2023,Tesco 4 Boneless Salmon Fillets 520g,9.75,Groceries - Meat,Tesco,IMG_3205.jpg
+166,1.0,22/07/2023,Gie Ritakfast,13.0,Groceries,CAFE PLAKA,IMG_3211.jpg
+167,1.0,22/07/2023,Ese&Ham Omelette,10.0,Groceries,CAFE PLAKA,IMG_3211.jpg
+168,1.0,22/07/2023,Tat White,6.6,Groceries,CAFE PLAKA,IMG_3211.jpg
+169,1.0,27/11/2023,FRUIT JUICE,3.0,Drinks,Tesco,IMG_3198.jpg
+170,1.0,27/11/2023,SMOOTHIE,3.5,Drinks,Tesco,IMG_3198.jpg
+171,1.0,27/11/2023,TOBLERONE,4.0,Snacks,Tesco,IMG_3198.jpg
+172,1.0,27/11/2023,TRUFFLES,6.0,Snacks,Tesco,IMG_3198.jpg
+173,1.0,27/11/2023,WRIGLEY CHEWING GUM,2.25,Snacks,Tesco,IMG_3198.jpg
+174,1.0,18/02/2024,Raagi Flour,3.29,Groceries,Cherry Hinton Stores,IMG_3199.jpg
+175,1.0,18/02/2024,Uthra Coriander Seeds 200g,2.49,Groceries,Cherry Hinton Stores,IMG_3199.jpg
+176,2.0,18/02/2024,Cdm Caramel Pm125,2.5,Snacks,Cherry Hinton Stores,IMG_3199.jpg
+177,0.43,18/02/2024,Cucumber,3.44,Vegetables,Cherry Hinton Stores,IMG_3199.jpg
+178,0.115,18/02/2024,Drumstick,0.92,Vegetables,Cherry Hinton Stores,IMG_3199.jpg
+179,2.0,18/02/2024,Curry Leaves,2.98,Groceries,Cherry Hinton Stores,IMG_3199.jpg
+180,1.0,18/02/2024,Methi,1.29,Groceries,Cherry Hinton Stores,IMG_3199.jpg
+181,4.0,22/05/2023,JS GRANOLA SLICES X4,1.5,Snacks,Sainsbury's,IMG_3210.jpg
+182,1.0,22/05/2023,JS COCONUT DESS,2.0,Snacks,Sainsbury's,IMG_3210.jpg
+183,1.0,22/05/2023,LAVAZZA QUALITA ROSS,4.15,Drinks,Sainsbury's,IMG_3210.jpg
+184,1.0,22/05/2023,TROP OPANGE & MANGO,2.0,Fruits,Sainsbury's,IMG_3210.jpg
+185,1.0,22/05/2023,TROP ORANGE & MANGO,2.0,Fruits,Sainsbury's,IMG_3210.jpg
+186,1.0,22/05/2023,CAD TWIRL SINGLE,0.85,Snacks,Sainsbury's,IMG_3210.jpg
+187,1.0,22/05/2023,CAD TWIRL SINGLE,0.85,Snacks,Sainsbury's,IMG_3210.jpg
+188,1.0,22/05/2023,FUDCO ALMONDS,4.25,Snacks,Sainsbury's,IMG_3210.jpg
+189,2.0,22/05/2023,BUTTER CROISSANT,0.95,Bakery,Sainsbury's,IMG_3210.jpg
+190,6.0,22/05/2023,CLASSIC TOMATOES X6,0.95,Vegetables,Sainsbury's,IMG_3210.jpg
+191,1.0,22/05/2023,THAI TASTE GRN PST,2.7,Groceries,Sainsbury's,IMG_3210.jpg
+192,1.0,16/12/2023,Tesco Finest Tomatoes On The Vine 450g,2.0,Vegetables,Tesco,IMG_3204.jpg
+193,1.0,16/12/2023,Tesco Pineapple 200g,0.95,Fruits,Tesco,IMG_3204.jpg
+194,1.0,16/12/2023,Tesco Stringless Beans 180g,0.61,Vegetables,Tesco,IMG_3204.jpg
+195,2.0,16/12/2023,Tesco Pistachio Nuts 200g,2.75,Snacks,Tesco,IMG_3204.jpg
+196,1.0,16/12/2023,Hevgate Farms Norfolk Potatoes 750g,1.4,Vegetables,Tesco,IMG_3204.jpg
+197,1.0,16/12/2023,Tesco Shallots Onions 400g,1.35,Vegetables,Tesco,IMG_3204.jpg
+198,1.0,16/12/2023,Jaffa Orange Pack,2.0,Fruits,Tesco,IMG_3204.jpg
+199,1.0,16/12/2023,Tesco Limes Minimum 5 Pack,1.09,Fruits,Tesco,IMG_3204.jpg
+200,1.0,16/12/2023,Tesco Red Onions Pack 1kg,0.95,Vegetables,Tesco,IMG_3204.jpg
+201,1.0,16/12/2023,Tesco Large Sweet Potatoes Loose Class 1,0.57,Vegetables,Tesco,IMG_3204.jpg
+202,1.0,16/12/2023,Tesco Finest 2 Yellow Fin Tuna Steaks 240g,8.2,Groceries - Meat,Tesco,IMG_3204.jpg
+203,1.0,16/12/2023,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,6.5,Groceries - Meat,Tesco,IMG_3204.jpg
+204,1.0,16/12/2023,Tesco Non Stick Baking Paper 370mm X 15m,2.0,Household,Tesco,IMG_3204.jpg
+205,1.0,16/12/2023,Tesco 15 British Mixed Weight Eggs,1.99,Groceries - Dairy,Tesco,IMG_3204.jpg
+206,1.0,16/12/2023,Innocent Smoothie Strawberries & Bananas 750ml,3.5,Drinks,Tesco,IMG_3204.jpg
+207,1.0,16/12/2023,"Tesco British Semi Skimmed Milk 2.272l, 4 Pints",1.45,Groceries - Dairy,Tesco,IMG_3204.jpg
+208,1.0,16/12/2023,Innocent Coconut Water 1 Litre,4.3,Drinks,Tesco,IMG_3204.jpg
+209,1.0,16/12/2023,Tiger Tiger 5mm Rice Sticks Noodles 400g,2.4,Groceries,Tesco,IMG_3204.jpg
+210,1.0,16/12/2023,Vineyards Mulled Wine 75cl,3.0,Alcohol,Tesco,IMG_3204.jpg
+211,1.0,16/12/2023,Tesco Pitted Green Olives With Chilli 70g,1.1,Groceries,Tesco,IMG_3204.jpg
+212,1.0,16/12/2023,Tesco Corn On The Cob Twinpack,1.35,Vegetables,Tesco,IMG_3204.jpg
+213,1.0,16/12/2023,Celebrations Milk Chocolate Box Chocolate Bars 300g,4.0,Snacks,Tesco,IMG_3204.jpg
+214,1.0,16/12/2023,Tesco Natural Yogurt 1kg,1.7,Groceries - Dairy,Tesco,IMG_3204.jpg
+215,1.0,16/12/2023,Aw23 Ff Gloves L Chenille Grey 0/s,7.0,Household,Tesco,IMG_3204.jpg
+216,1.0,16/12/2023,Tesco Unsalted Mixed Nuts & Raisins 250g,2.0,Snacks,Tesco,IMG_3204.jpg
+217,2.0,16/12/2023,Tesco Single Wine Glass,1.2,Household,Tesco,IMG_3204.jpg
+218,1.0,16/12/2023,Aw23 Ff Gloves M Hex Fleece Li Black S/m,8.0,Household,Tesco,IMG_3204.jpg
+219,1.0,16/12/2023,Cushelle Quilted Raspberry & Rhubarb Toilet Tissue 6 Rolls,6.75,Toiletries,Tesco,IMG_3204.jpg
+220,1.0,16/12/2023,Hapi Dry Roasted Edamame With Sea Salt Beans 100g,1.6,Groceries,Tesco,IMG_3204.jpg
+221,1.0,16/12/2023,Joie Collapsible Silicone Colander Green,6.0,Household,Tesco,IMG_3204.jpg
+222,2.0,16/12/2023,Tesco Greek Feta Cheese 200 G,4.0,Groceries - Dairy,Tesco,IMG_3204.jpg
+223,1.0,16/12/2023,Innocent Revitalise Super Smoothie 750ml,4.5,Drinks,Tesco,IMG_3204.jpg
+224,1.0,16/12/2023,Tesco Enamel Single Serve Dish 18cm,3.0,Household,Tesco,IMG_3204.jpg
+225,1.0,24/09/2022,Orderbee Unlock,0.0,Food,Bella Italia,IMG_3212.JPG
+226,1.0,24/09/2022,175ml House Red,5.99,Alcohol,Bella Italia,IMG_3212.JPG
+227,1.0,24/09/2022,GlsTap Water FOC,0.0,Drinks,Bella Italia,IMG_3212.JPG
+228,1.0,24/09/2022,Pollo Funghi,13.59,Food,Bella Italia,IMG_3212.JPG
+229,1.0,24/09/2022,Gamberoni,15.09,Food,Bella Italia,IMG_3212.JPG
+230,1.0,13/11/2023,Deccan Ponni Boiled Rice,10.99,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+231,1.0,13/11/2023,Roasted Rava,5.99,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+232,1.0,13/11/2023,Pillsbury Chakki Atta,11.99,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+233,1.0,13/11/2023,Urad Dal 1.5Kg,5.49,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+234,1.0,13/11/2023,Fudco Jumbo Roasted & Salted P,13.99,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+235,1.0,13/11/2023,medium desiccated coconut,2.49,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+236,1.0,13/11/2023,trs whole chil ex hot,1.29,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+237,1.0,13/11/2023,TRS Brown Mustard Seeds 400g,1.49,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+238,1.0,13/11/2023,Virani Gram Flour 500G,1.79,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+239,1.0,13/11/2023,TRS Mung Beans 500g,1.79,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+240,1.0,13/11/2023,Curry Leaves,1.79,Groceries,Cherry Hinton Stores,IMG_3206.jpg
+241,0.105,13/11/2023,Drumstick,0.84,Vegetables,Cherry Hinton Stores,IMG_3206.jpg
+242,0.085,13/11/2023,Rocket Chilli,0.59,Vegetables,Cherry Hinton Stores,IMG_3206.jpg
+243,0.43,13/11/2023,Mooli,1.08,Vegetables,Cherry Hinton Stores,IMG_3206.jpg
+244,0.55,13/11/2023,Cucumber,4.39,Vegetables,Cherry Hinton Stores,IMG_3206.jpg
+245,0.185,13/11/2023,Karela,1.29,Vegetables,Cherry Hinton Stores,IMG_3206.jpg
+246,0.225,13/11/2023,Okra,1.57,Vegetables,Cherry Hinton Stores,IMG_3206.jpg
+247,0.555,13/11/2023,Raw Mango,4.43,Fruits,Cherry Hinton Stores,IMG_3206.jpg
+248,4.0,23/12/2023,B X,3.9,Snacks,Kulu Kulu Sushi,IMG_3207.jpg
+249,2.0,23/12/2023,C X,5.2,Snacks,Kulu Kulu Sushi,IMG_3207.jpg
+250,2.0,23/12/2023,E X,5.2,Snacks,Kulu Kulu Sushi,IMG_3207.jpg
+251,1.0,30/10/2022,Flat White,2.95,Drinks,WEST BEACH BAR & KITCHEN,IMG_3213.JPG
+252,1.0,30/10/2022,Gordons Gin 25ml,3.75,Alcohol,WEST BEACH BAR & KITCHEN,IMG_3213.JPG
+253,1.0,30/10/2022,Soup of the Day,7.0,Groceries,WEST BEACH BAR & KITCHEN,IMG_3213.JPG
+254,1.0,30/10/2022,Small Fish n Chips,8.0,Groceries,WEST BEACH BAR & KITCHEN,IMG_3213.JPG
+255,1.0,30/10/2022,Scampi,15.0,Groceries,WEST BEACH BAR & KITCHEN,IMG_3213.JPG
+256,40.0,23/04/2023,SKRUVBY side tbl 40x,40.0,Household,IKEA,IMG_3217.JPG
+257,1.0,23/04/2023,EKTORP cvr f so2 Tot,119.0,Household,IKEA,IMG_3217.JPG
+258,1.0,23/04/2023,RIBBA NN frame 13x18,4.0,Household,IKEA,IMG_3217.JPG
+259,2.0,23/04/2023,SANELA cushion cvr 5,13.0,Household,IKEA,IMG_3217.JPG
+260,1.0,23/04/2023,BRÄDA laptop support,5.5,Household,IKEA,IMG_3217.JPG
+261,1.0,23/04/2023,IKEA 365+ N frying p,10.0,Household,IKEA,IMG_3217.JPG
+262,1.0,05/11/2023,Celebrations Chocolates 300g,4.0,Snacks,Tesco,IMG_3203.jpg
+263,1.0,05/11/2023,Co Choclates,1.0,Snacks,Tesco,IMG_3203.jpg
+264,1.0,05/11/2023,Innocent Smoothie Energise. Strawberry & Chocolate,4.5,Drinks,Tesco,IMG_3203.jpg
+265,1.0,05/11/2023,Tesco Chocolate Loaves,1.4,Bakery,Tesco,IMG_3203.jpg
+266,1.0,05/11/2023,Tesco British Semi Skimmed Milk 2.2L 4 Pints,1.4,Groceries - Dairy,Tesco,IMG_3203.jpg
+267,1.0,05/11/2023,Onken Natural Set Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3203.jpg
+268,1.0,05/11/2023,Innocent Apple Juice 1.35 Litre,1.1,Drinks,Tesco,IMG_3203.jpg
+269,2.0,05/11/2023,Tesco Pistachio Nuts 200g,5.5,Snacks,Tesco,IMG_3203.jpg
+270,1.0,05/11/2023,Tesco Finest Hickory Smoked Nut Selection 225g,4.0,Snacks,Tesco,IMG_3203.jpg
+271,1.0,05/11/2023,Tesco Dudhi Each,3.0,Vegetables,Tesco,IMG_3203.jpg
+272,1.0,05/11/2023,Tesco Dudhi Loose,2.84,Vegetables,Tesco,IMG_3203.jpg
+273,2.0,05/11/2023,Kellogg's Crunchy Nut Fruit & Nut Oat Granola 380g,6.0,Snacks,Tesco,IMG_3203.jpg
+274,1.0,05/11/2023,Schweppes Slimline Tonic Water,1.75,Drinks,Tesco,IMG_3203.jpg
+275,1.0,05/11/2023,Tesco Red Seedless Grape,1.8,Fruits,Tesco,IMG_3203.jpg
+276,2.0,05/11/2023,Tesco Sweet Vine Ripened Tomatoes 255g,2.4,Vegetables,Tesco,IMG_3203.jpg
+277,1.0,05/11/2023,Tesco All Butter Croissant 2 Pack,1.7,Bakery,Tesco,IMG_3203.jpg
+278,1.0,05/11/2023,Flash Speed Mop Starter Kit,11.5,Household,Tesco,IMG_3203.jpg
+279,1.0,05/11/2023,Vanish Gold Carpet Cleaner Foam 600ml,7.0,Household,Tesco,IMG_3203.jpg
+280,1.0,05/11/2023,Tesco Finest 2 Beer Battered Cod Fillets 380g,4.95,Groceries - Meat,Tesco,IMG_3203.jpg
+281,1.0,05/11/2023,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,6.5,Groceries - Meat,Tesco,IMG_3203.jpg
+282,1.0,15/10/2023,Tesco Bananas Loose,1.35,Fruits,Tesco,IMG_3202.jpg
+283,1.0,15/10/2023,Tesco Tie Top Bin Bags 501 X 20 Pack,2.5,Household,Tesco,IMG_3202.jpg
+284,1.0,15/10/2023,Tesco Flat Top Compostable Caddy Liners 10 Pack 251,3.5,Household,Tesco,IMG_3202.jpg
+285,1.0,15/10/2023,Tesco Coriander 100g,1.25,Groceries,Tesco,IMG_3202.jpg
+286,1.0,15/10/2023,Tesco Watercress 80g,1.35,Groceries,Tesco,IMG_3202.jpg
+287,1.0,15/10/2023,Jaffa Orange Pack,2.0,Fruits,Tesco,IMG_3202.jpg
+288,1.0,15/10/2023,Cc Jaffa Oranges,-0.5,Fruits,Tesco,IMG_3202.jpg
+289,1.0,15/10/2023,"Tesco Briti Semi Skimmed Milk 2.2721, 4 Pints",1.45,Groceries - Dairy,Tesco,IMG_3202.jpg
+290,1.0,15/10/2023,Onken Natural Set Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3202.jpg
+291,1.0,15/10/2023,Tesco Dudhi Each (c),3.0,Vegetables,Tesco,IMG_3202.jpg
+292,1.0,15/10/2023,Tetley 40 Teabags 125g,1.55,Groceries,Tesco,IMG_3202.jpg
+293,1.0,15/10/2023,Tesco Carrot Sweetcorn & Peas Layered Vegetable 355g,2.0,Vegetables,Tesco,IMG_3202.jpg
+294,2.0,15/10/2023,Tesco Pistachio Nuts 200g,5.5,Snacks,Tesco,IMG_3202.jpg
+295,1.0,15/10/2023,Tesco Red Onions Pack 1kg,0.99,Vegetables,Tesco,IMG_3202.jpg
+296,1.0,15/10/2023,Tesco Mangetout 180g,1.3,Vegetables,Tesco,IMG_3202.jpg
+297,1.0,15/10/2023,Tesco Finest Gem Avocado Twin Pack,2.5,Vegetables,Tesco,IMG_3202.jpg
+298,1.0,15/10/2023,Tesco Shallots Onions 400g,1.35,Vegetables,Tesco,IMG_3202.jpg
+299,1.0,15/10/2023,Tesco Limes Minimum 5 Pack,1.09,Fruits,Tesco,IMG_3202.jpg
+300,1.0,15/10/2023,Gordon's Special Dry London Gin Bottle 37.5% Vol 1l,24.0,Alcohol,Tesco,IMG_3202.jpg
+301,1.0,15/10/2023,Cc Gordon's Gin,-6.0,Alcohol,Tesco,IMG_3202.jpg
+302,1.0,15/10/2023,Tesco Radish Pack 240g,0.49,Vegetables,Tesco,IMG_3202.jpg
+303,1.0,15/10/2023,Tesco Red Seedless Grapes 500g,1.8,Fruits,Tesco,IMG_3202.jpg
+304,1.0,15/10/2023,Grapefruit Each (c),0.55,Fruits,Tesco,IMG_3202.jpg
+305,1.0,15/10/2023,Fever Tree Light Sicilian Lemonade 500ml,2.0,Drinks,Tesco,IMG_3202.jpg
+306,1.0,15/10/2023,Cc Soft Drink,-0.3,Drinks,Tesco,IMG_3202.jpg
+307,1.0,15/10/2023,Tesco Whole Large Cucumber,0.95,Vegetables,Tesco,IMG_3202.jpg
+308,1.0,15/10/2023,Wiliow Farm Whole Chicken 1.2kg - 1.6kg,3.76,Groceries - Meat,Tesco,IMG_3202.jpg
+309,1.0,15/10/2023,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,6.5,Groceries - Meat,Tesco,IMG_3202.jpg
+310,1.0,15/10/2023,Tesco Raw King Prawns 165g,3.5,Groceries - Meat,Tesco,IMG_3202.jpg
+311,1.0,15/10/2023,Wild Harbour Coley Fillets 240g,3.0,Groceries - Meat,Tesco,IMG_3202.jpg
+312,1.0,15/10/2023,Tesco 4 Boneless Salmon Fillets 520g,9.5,Groceries - Meat,Tesco,IMG_3202.jpg
+313,2.0,15/10/2023,Tesco Large Free Range Eggs 6 Pack,3.7,Groceries - Dairy,Tesco,IMG_3202.jpg
+314,1.0,13/02/2023,GRK STYLE YOG,1.4,Groceries - Dairy,BP,IMG_3216.JPG
+315,1.0,13/02/2023,WBC CHICKEN SLICE,2.4,Groceries - Meat,BP,IMG_3216.JPG
+316,1.0,13/02/2023,ULT_UNL,14.7,Groceries,BP,IMG_3216.JPG
+317,1.0,02/03/2024,Tesco Tomatoes On The Vine 500g,1.39,Vegetables,Tesco,IMG_3200.jpg
+318,2.0,02/03/2024,Tesco Green Peppers Each,1.1,Vegetables,Tesco,IMG_3200.jpg
+319,1.0,02/03/2024,Tesco Sweet Vine Ripened Tomatoes 255g,1.25,Vegetables,Tesco,IMG_3200.jpg
+320,1.0,02/03/2024,Coconut Each,0.94,Fruits,Tesco,IMG_3200.jpg
+321,1.0,02/03/2024,Jaffa Orange Pack,2.0,Fruits,Tesco,IMG_3200.jpg
+322,1.0,02/03/2024,Propercorn Sweet & Salty Popcorn Sharing Bag 90 G,1.9,Snacks,Tesco,IMG_3200.jpg
+323,1.0,02/03/2024,Tesco Simple Salad With Sour Cream And Chive 165g,1.05,Groceries,Tesco,IMG_3200.jpg
+324,1.0,02/03/2024,Tesco Cauliflower Each,1.09,Vegetables,Tesco,IMG_3200.jpg
+325,1.0,02/03/2024,Ariel All In One Washing Liquid Pods Original 25 Washes 490g,6.5,Household,Tesco,IMG_3200.jpg
+326,1.0,02/03/2024,Rimmel Scndl 'eys Exaggerate Eye Definer Intense Black 0.35g,5.0,Toiletries,Tesco,IMG_3200.jpg
+327,1.0,02/03/2024,Mr Muscle Oven Cleaner 300ml,3.0,Household,Tesco,IMG_3200.jpg
+328,1.0,02/03/2024,Tesco Bananas Loose,0.76,Fruits,Tesco,IMG_3200.jpg
+329,1.0,02/03/2024,Tesco Carrot Sweetcorn & Peas Layered Vegetable 355g,2.0,Vegetables,Tesco,IMG_3200.jpg
+330,1.0,02/03/2024,Onken Natural Set Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3200.jpg
+331,1.0,02/03/2024,Tesco Lamb Chops 300g,4.9,Groceries - Meat,Tesco,IMG_3200.jpg
+332,1.0,02/03/2024,Tesco Raw King Prawns 165g,3.5,Groceries - Meat,Tesco,IMG_3200.jpg
+333,2.0,02/03/2024,Tesco 2 Cape Hake Fillets 240g,8.8,Groceries - Meat,Tesco,IMG_3200.jpg
+334,1.0,02/03/2024,Tesco Finest Black Grapes Seedless 400g,2.3,Fruits,Tesco,IMG_3200.jpg
+335,1.0,02/03/2024,Happy Egg Free Range Eggs Large 10 Pack,3.6,Groceries,Tesco,IMG_3200.jpg
+336,1.0,02/03/2024,Tyrells Tomato & Chilli Chutney Flavoured Crisps 150g,2.5,Snacks,Tesco,IMG_3200.jpg
+337,2.0,02/03/2024,Peroni Nastro Azzurro Lager 4 X 440ml,14.0,Alcohol,Tesco,IMG_3200.jpg
+338,1.0,02/03/2024,Tesco Mooli Each,1.7,Vegetables,Tesco,IMG_3200.jpg
+339,1.0,02/03/2024,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,6.5,Groceries - Meat,Tesco,IMG_3200.jpg
+340,1.0,02/03/2024,Wrigley's Extra Watermelon Gum 60 Pieces 84g,2.75,Snacks,Tesco,IMG_3200.jpg
+341,1.0,02/03/2024,Tesco Desiccated Coconut 200g,1.45,Groceries,Tesco,IMG_3200.jpg
+342,1.0,02/03/2024,Tesco Sugarsnap Peas 180g,1.1,Vegetables,Tesco,IMG_3200.jpg
+343,1.0,02/03/2024,Tesco Chestnut Mushrooms 250g,1.1,Vegetables,Tesco,IMG_3200.jpg
+344,1.0,02/03/2024,Fresh & Naked Spinach 125g,1.2,Vegetables,Tesco,IMG_3200.jpg
+345,1.0,02/03/2024,Tesco Finest Extra Fine Beans 200g,1.55,Vegetables,Tesco,IMG_3200.jpg
+346,1.0,02/03/2024,Tesco Red Onions Pack 1kg,0.95,Vegetables,Tesco,IMG_3200.jpg
+347,1.0,02/03/2024,Tesco White Flesh Sweet Potatoes Loose,1.02,Vegetables,Tesco,IMG_3200.jpg
+348,1.0,02/03/2024,Tesco Limes Minimum 5 Pack,1.19,Fruits,Tesco,IMG_3200.jpg
+349,1.0,02/03/2024,Innocent Smoothie Strawberries & Bananas 750ml,3.5,Drinks,Tesco,IMG_3200.jpg
+350,1.0,02/03/2024,Tesco Root Ginger Loose,0.98,Groceries,Tesco,IMG_3200.jpg
+351,2.0,02/03/2024,Tesco Pistachio Nuts 200g,5.5,Snacks,Tesco,IMG_3200.jpg
+352,1.0,02/03/2024,Tesco 4 Pack Garlic,0.95,Groceries,Tesco,IMG_3200.jpg
+353,1.0,02/03/2024,Tesco Flat Top Compostable Caddy Liners 10 Pack 251,3.45,Household,Tesco,IMG_3200.jpg
+354,1.0,02/03/2024,Innocent Smoothie Mangoes Passion Fruits & Apples 750ml,3.5,Drinks,Tesco,IMG_3200.jpg
+355,1.0,30/06/2022,AFTER EIGHT DARK,2.0,Snacks,Sainsbury's,IMG_3214.JPG
+356,6.0,30/06/2022,CLASSIC TOMATOES,0.8,Vegetables,Sainsbury's,IMG_3214.JPG
+357,1.0,30/06/2022,JS LARGE GARLIC,0.65,Vegetables,Sainsbury's,IMG_3214.JPG
+358,1.0,30/06/2022,JS FRESH MINT,0.55,Groceries,Sainsbury's,IMG_3214.JPG
+359,1.0,30/06/2022,TTD EASY PEEL 600G,2.0,Fruits,Sainsbury's,IMG_3214.JPG
+360,3.0,30/06/2022,JSPACK RD ONIONS,0.95,Vegetables,Sainsbury's,IMG_3214.JPG
+361,1.0,30/06/2022,BD COCONUT MILK,2.0,Groceries - Dairy,Sainsbury's,IMG_3214.JPG
+362,1.0,30/06/2022,JS BAG FOR LIFE,0.3,Household,Sainsbury's,IMG_3214.JPG
+363,1.0,28/09/2023,LINDT LINDOR CORNET,4.75,Snacks,Sainsbury's,IMG_3201.jpg
+364,1.0,28/09/2023,LINDT LINDOR,4.75,Snacks,Sainsbury's,IMG_3201.jpg
+365,1.0,28/09/2023,THORNTONS MDW 262G,7.75,Snacks,Sainsbury's,IMG_3201.jpg
+366,1.0,28/09/2023,THORNTONS MDW 262G,7.75,Snacks,Sainsbury's,IMG_3201.jpg
+367,1.0,28/09/2023,JS S/SKM MLK 1.136L,1.3,Groceries - Dairy,Sainsbury's,IMG_3201.jpg
+368,1.0,28/09/2023,DBLE CHOC BRWN BITES,2.0,Snacks,Sainsbury's,IMG_3201.jpg
+369,1.0,28/09/2023,MALTSRS MINI REIN C,1.25,Snacks,Sainsbury's,IMG_3201.jpg
+370,1.0,28/09/2023,LOVE CORN S&V 45G,1.15,Snacks,Sainsbury's,IMG_3201.jpg
+371,2.0,28/09/2023,JS RIPE MANGOES,2.5,Fruits,Sainsbury's,IMG_3201.jpg
+372,1.0,28/09/2023,JS CASTE SUGAR,1.65,Groceries,Sainsbury's,IMG_3201.jpg
+373,1.0,28/09/2023,JS INDIAN SNCK SLCTN,2.75,Snacks,Sainsbury's,IMG_3201.jpg
+374,1.0,28/09/2023,G4U SALD TOPPER SEED,2.2,Groceries,Sainsbury's,IMG_3201.jpg
+375,1.0,28/09/2023,HARIBO FRTLS SWT BG,1.5,Snacks,Sainsbury's,IMG_3201.jpg
+376,1.0,28/09/2023,HARIBO TANGFASTICS,1.5,Snacks,Sainsbury's,IMG_3201.jpg
+377,1.0,28/09/2023,JS BAG FOR LIFE,0.3,Household,Sainsbury's,IMG_3201.jpg
+378,1.0,12/08/2025,WRIGLEYS EXTRA WHITE,2.8,Snacks,Waitrose,IMG_3847.jpg
+379,1.0,12/08/2025,WR FILTERED SEMI,2.25,Drinks,Waitrose,IMG_3847.jpg
+380,1.0,12/08/2025,MAGNUM MINI WHITE,4.05,Snacks,Waitrose,IMG_3847.jpg
+381,1.0,12/08/2025,WR LEMON FRUIT FOOL,1.05,Snacks,Waitrose,IMG_3847.jpg
+382,1.0,12/08/2025,WR TRIP CHOC COOKIES,2.65,Snacks,Waitrose,IMG_3847.jpg
+383,1.0,12/08/2025,WR MULTISEED BATCH,1.69,Bakery,Waitrose,IMG_3847.jpg
+384,1.0,12/08/2025,WR CKN BRST FLTS,4.85,Groceries - Meat,Waitrose,IMG_3847.jpg
+385,1.0,12/08/2025,WR GREEN GRAPES,2.69,Fruits,Waitrose,IMG_3847.jpg
+386,1.0,12/08/2025,WR MUSHROOM STIR FRY,1.99,Vegetables,Waitrose,IMG_3847.jpg
+387,1.0,12/08/2025,WR EDAMAME STIR FRY,1.07,Vegetables,Waitrose,IMG_3847.jpg
+388,1.0,14/07/2025,Regular Flat White,3.45,Drinks,Tesco,IMG_3864.jpg
+389,1.0,14/07/2025,Jack Daniel's Single Barrel Select Tennessee Whiskey 70 cl,45.5,Alcohol,Tesco,IMG_3864.jpg
+390,1.0,14/07/2025,Tesco Kitchen Foil 10m X 290mm,1.35,Household,Tesco,IMG_3864.jpg
+391,1.0,14/07/2025,Tesco British Chicken Thighs,2.99,Groceries - Meat,Tesco,IMG_3864.jpg
+392,1.0,14/07/2025,Lindt Excellence Dark Chocolate Bar Orange Intense 100g,3.0,Snacks,Tesco,IMG_3864.jpg
+393,2.0,14/07/2025,Tesco Mushroom Stir Fry 320g,3.6,Groceries,Tesco,IMG_3864.jpg
+394,1.0,14/07/2025,Tesco 2 Boneless Salmon Fillets 260g,4.2,Groceries - Meat,Tesco,IMG_3864.jpg
+395,1.0,14/07/2025,Tesco Boneless Salmon Fillet 130g,2.5,Groceries - Meat,Tesco,IMG_3864.jpg
+396,2.0,14/07/2025,Tesco 2 Boneless Sea Bass Fillets 180g,9.3,Groceries - Meat,Tesco,IMG_3864.jpg
+397,1.0,14/07/2025,"Maybelline Hyper Precise Liquid Ink Eyeliner, Parrot Blue",8.0,Toiletries,Tesco,IMG_3864.jpg
+398,1.0,14/07/2025,Tesco Carrots Loose,0.1,Vegetables,Tesco,IMG_3864.jpg
+399,1.0,14/07/2025,Flora Pure Sunflower Oil 1l,3.5,Groceries,Tesco,IMG_3864.jpg
+400,1.0,14/07/2025,Napolina Penne Pasta 500g,1.5,Groceries,Tesco,IMG_3864.jpg
+401,1.0,14/07/2025,Tesco Ripen At Home Bananas 5 Pack,0.78,Fruits,Tesco,IMG_3864.jpg
+402,1.0,14/07/2025,Little Tree Black Ice,1.5,Snacks,Tesco,IMG_3864.jpg
+403,1.0,14/07/2025,Little Tree New Car,1.5,Snacks,Tesco,IMG_3864.jpg
+404,1.0,14/07/2025,Tesco Wholefoods Bulgar Wheat 500g,2.0,Groceries,Tesco,IMG_3864.jpg
+405,1.0,14/07/2025,Tesco Organic Tomatoes On The Vine 400g,2.2,Vegetables,Tesco,IMG_3864.jpg
+406,1.0,14/07/2025,Tesco Organic Cherry Tomatoes On The Vine 200g,2.0,Vegetables,Tesco,IMG_3864.jpg
+407,1.0,14/07/2025,F&F 5-pack Full Brief Microfibre No Vpl Knickers In Multi Black White,9.5,Household,Tesco,IMG_3864.jpg
+408,1.0,14/07/2025,Gillette Fusion5 Men's Razor Blade Refills 4 Pack,13.0,Toiletries,Tesco,IMG_3864.jpg
+409,1.0,14/07/2025,Rimmel Kate Lipstick Collection 4gms,6.0,Toiletries,Tesco,IMG_3864.jpg
+410,1.0,14/07/2025,Rimmel New Stay Matte Pressed Powder Sandstorm,5.0,Toiletries,Tesco,IMG_3864.jpg
+411,1.0,14/07/2025,Pataks Ready To Eat Plain Pappadums 8 Pack,2.3,Groceries,Tesco,IMG_3864.jpg
+412,1.0,14/07/2025,Tesco Black Seedless Grapes 500g,1.9,Fruits,Tesco,IMG_3864.jpg
+413,1.0,14/07/2025,"Tesco British Semi Skimmed Milk 1.13l, 2 Pints",1.2,Groceries - Dairy,Tesco,IMG_3864.jpg
+414,1.0,14/07/2025,Carplan No1 Super Dri 600ml Bottle,10.0,Household,Tesco,IMG_3864.jpg
+415,1.0,14/07/2025,Tesco Garlic 4 Pack,0.89,Vegetables,Tesco,IMG_3864.jpg
+416,1.0,14/07/2025,Tesco Root Ginger Loose,0.96,Groceries,Tesco,IMG_3864.jpg
+417,1.0,14/07/2025,Innocent Plus Blue Bolt Guava & Lime Juice With Vitamins 750ml,4.0,Drinks,Tesco,IMG_3864.jpg
+418,1.0,14/07/2025,Napolina Double Concentrate Tomato Puree 142g,1.2,Groceries,Tesco,IMG_3864.jpg
+419,1.0,14/07/2025,Tresemme Biotin Repair Shampoo 680ml,6.0,Toiletries,Tesco,IMG_3864.jpg
+420,1.0,14/07/2025,Tesco Korean Bbq Inspired Stir Fry Sauce 165g,1.15,Groceries,Tesco,IMG_3864.jpg
+421,2.0,06/08/2025,Vita Coco Natural Coconut Water 500 Ml,5.0,Drinks,Tesco,IMG_3858.jpg
+422,1.0,06/08/2025,Wagamama Teriyaki Stir Fry Sauce Mild 120g,1.5,Groceries,Tesco,IMG_3858.jpg
+423,1.0,06/08/2025,Warburtons Crumpets 6 Pack,0.79,Bakery,Tesco,IMG_3858.jpg
+424,1.0,06/08/2025,Cadbury Dairy Milk Fruit And Nut Chocolate Bar 180g,3.1,Snacks,Tesco,IMG_3858.jpg
+425,1.0,26/06/2025,rara Crystal Sal 1 kg,0.99,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+426,1.0,26/06/2025,Coriander,0.99,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+427,1.0,26/06/2025,Mint,0.99,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+428,2.0,26/06/2025,Curry Leaves,2.5,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+429,2.0,26/06/2025,uthra Urad Dal WASHED 500G,4.56,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+430,1.0,26/06/2025,Fudco Almonds (Badam) 700G,8.49,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+431,1.0,26/06/2025,Uthra Chick Peas Bold,2.29,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+432,3.0,26/06/2025,Coconut,2.97,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+433,1.0,26/06/2025,Uthra Moong Dall Washed,5.29,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+434,1.0,26/06/2025,Uthra Suya Chunks,1.19,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+435,1.0,26/06/2025,Uthra Kila Chana 500gm,0.19,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+436,1.0,26/06/2025,Top Op Dajar Phool Makhana 100,2.99,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+437,1.0,26/06/2025,Uthra Ajwain Seeds 100g,1.29,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+438,1.0,26/06/2025,Trs Poppy Seeds White 100g,1.19,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+439,1.0,26/06/2025,Taj Mahal Tea,5.99,Drinks,Cherry Hinton Stores,IMG_3859.jpg
+440,2.0,26/06/2025,Uthra Coriander Seeds 200g,4.98,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+441,1.0,26/06/2025,Saras Peanut ladoo 150g,2.29,Snacks,Cherry Hinton Stores,IMG_3859.jpg
+442,1.0,26/06/2025,TRS fennel seeds 100g,1.39,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+443,1.0,26/06/2025,Garlic 4Pk,0.99,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+444,1.0,26/06/2025,Shallots,2.48,Vegetables,Cherry Hinton Stores,IMG_3859.jpg
+445,1.0,26/06/2025,Ginger,1.75,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+446,1.0,26/06/2025,Saras Red Peanuts,1.69,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+447,1.0,26/06/2025,Shankar Idly Rice 2Kg,3.18,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+448,1.0,26/06/2025,Deccan Mata Rice,1.39,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+449,2.0,26/06/2025,A2B Madras Mixture,5.4,Groceries,Cherry Hinton Stores,IMG_3859.jpg
+450,0.76,14/07/2025,Wine Tomato,2.27,Vegetables,Cherry Hinton Stores,IMG_3865.jpg
+451,1.0,14/07/2025,Coriander,1.09,Groceries,Cherry Hinton Stores,IMG_3865.jpg
+452,0.52,14/07/2025,"Tindora, Punjabi Tinda",3.63,Vegetables,Cherry Hinton Stores,IMG_3865.jpg
+453,0.37,14/07/2025,Shallots,2.59,Vegetables,Cherry Hinton Stores,IMG_3865.jpg
+454,1.0,14/07/2025,Uthra Moong Beans,1.99,Groceries,Cherry Hinton Stores,IMG_3865.jpg
+455,2.0,14/07/2025,Heera Whole Kashmiri Chilli 50,2.98,Groceries,Cherry Hinton Stores,IMG_3865.jpg
+456,1.0,14/07/2025,Shankar Whole Dry Chili,1.79,Groceries,Cherry Hinton Stores,IMG_3865.jpg
+457,1.0,14/07/2025,Methi seeds 375g,2.49,Groceries,Cherry Hinton Stores,IMG_3865.jpg
+458,1.0,14/07/2025,Uthra Methi seeds 100g,0.99,Groceries,Cherry Hinton Stores,IMG_3865.jpg
+459,1.0,14/07/2025,Uthra Raagi Flour,3.69,Groceries,Cherry Hinton Stores,IMG_3865.jpg
+460,1.0,14/07/2025,Trs Tumeric powder,0.79,Groceries,Cherry Hinton Stores,IMG_3865.jpg
+461,1.0,14/07/2025,Uthra Imli Chaska,1.99,Groceries,Cherry Hinton Stores,IMG_3865.jpg
+462,3.0,14/07/2025,Coconut,2.97,Groceries,Cherry Hinton Stores,IMG_3865.jpg
+463,1.0,25/07/2025,WR ESS SEMI SKIMMED,1.35,Groceries - Dairy,Waitrose,IMG_3867.jpg
+464,1.0,25/07/2025,V MAGNUM DOUBLE CHERRY,4.79,Snacks,Waitrose,IMG_3867.jpg
+465,1.0,25/07/2025,V MAGNUM ALMOND,3.0,Snacks,Waitrose,IMG_3867.jpg
+466,1.0,25/07/2025,WR TRIP CHOC COOKIES,2.65,Snacks,Waitrose,IMG_3867.jpg
+467,1.0,25/07/2025,WR HONEY GINGER YOG,1.1,Groceries - Dairy,Waitrose,IMG_3867.jpg
+468,1.0,25/07/2025,WR PTRMI & EMM SWICH,4.85,Snacks,Waitrose,IMG_3867.jpg
+469,1.0,25/07/2025,WR STEAK CHUT SWICH,4.75,Snacks,Waitrose,IMG_3867.jpg
+470,1.0,25/07/2025,WR CORO CHKN SWICH,4.25,Snacks,Waitrose,IMG_3867.jpg
+471,1.0,25/07/2025,WR CHED CELRY SWICH,3.5,Snacks,Waitrose,IMG_3867.jpg
+472,1.0,25/07/2025,V WR FRUIT SHERBETS,1.65,Snacks,Waitrose,IMG_3867.jpg
+473,1.0,22/07/2025,Prince Foods Mixture,4.55,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+474,1.0,22/07/2025,Papdi Gathiya,1.69,Snacks,Cherry Hinton Stores,IMG_3866.jpg
+475,1.0,22/07/2025,A2B Stral pakoda,1.99,Snacks,Cherry Hinton Stores,IMG_3866.jpg
+476,1.0,22/07/2025,Mcvities Rich Tea Pm199,1.99,Snacks,Cherry Hinton Stores,IMG_3866.jpg
+477,2.0,22/07/2025,Peanut Roast PrinceFoods 150g,4.58,Snacks,Cherry Hinton Stores,IMG_3866.jpg
+478,0.185,22/07/2025,Drumstick,1.48,Groceries - Meat,Cherry Hinton Stores,IMG_3866.jpg
+479,1.0,22/07/2025,Curry Leaves,1.29,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+480,3.0,22/07/2025,Coconut,2.97,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+481,1.0,22/07/2025,Garlic,0.99,Vegetables,Cherry Hinton Stores,IMG_3866.jpg
+482,1.0,22/07/2025,Heera Ponni Boiled Rice 2kg,5.49,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+483,2.0,22/07/2025,Heera Idli Rice,10.98,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+484,1.0,22/07/2025,Uthra Kala Chana 500gm,1.49,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+485,1.0,22/07/2025,Uthra Almonds,9.99,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+486,1.0,22/07/2025,Uthra Jeera Seeds Indian,1.49,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+487,1.0,22/07/2025,Methi seeds 375g,2.49,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+488,1.0,22/07/2025,Mtr Rava Dosa 500g,2.79,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+489,1.0,22/07/2025,A2B Rava Idly Mix,2.29,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+490,1.0,22/07/2025,Uthra Coriander Seeds 200g,2.49,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+491,1.0,22/07/2025,Uthra Jeera Seeds Indian,1.49,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+492,2.0,22/07/2025,Heera Whole Kashmiri Chilli 50,2.98,Groceries,Cherry Hinton Stores,IMG_3866.jpg
+493,0.335,22/07/2025,Green Plantain,1.5,Fruits,Cherry Hinton Stores,IMG_3866.jpg
+494,0.095,22/07/2025,Rocket Chilli,0.66,Vegetables,Cherry Hinton Stores,IMG_3866.jpg
+495,1.05,22/07/2025,Loose Onions,1.35,Vegetables,Cherry Hinton Stores,IMG_3866.jpg
+496,1.0,22/07/2025,"Tindora, Punjabi Tinda",3.95,Vegetables,Cherry Hinton Stores,IMG_3866.jpg
+497,0.565,22/07/2025,"Tindora, Punjabi Tinda",3.95,Vegetables,Cherry Hinton Stores,IMG_3866.jpg
+498,0.81,22/07/2025,Wine Tomato,2.42,Vegetables,Cherry Hinton Stores,IMG_3866.jpg
+499,2.0,22/07/2025,Peanut Roast PrinceFrods 150g,4.58,Snacks,Cherry Hinton Stores,IMG_3866.jpg
+500,1.0,07/07/2025,WR BLACK CHERRY YOG,1.1,Groceries - Dairy,Waitrose,IMG_3862.jpg
+501,1.0,07/07/2025,WR STRAWB/CRM YOGURT,1.1,Groceries - Dairy,Waitrose,IMG_3862.jpg
+502,1.0,24/07/2025,COSTA COFE CRML LTTE,1.75,Drinks,Sainsbury's,IMG_3849.jpg
+503,1.0,24/07/2025,JS GRK STYL YOG 500G,1.45,Groceries - Dairy,Sainsbury's,IMG_3849.jpg
+504,1.0,05/07/2025,GO WALK ARCH FIT 2.0 216516GRY-8H,62.99,Footwear,Skechers,IMG_3861.jpg
+505,1.0,30/07/2025,Regular Flat White,3.45,Drinks,Tesco,IMG_3860.jpg
+506,1.0,30/07/2025,Yo! Nigiri Selects P1,6.25,Groceries,Tesco,IMG_3860.jpg
+507,1.0,30/07/2025,"Tesco British Semi Skimmed Milk 2.272l, 4 Pints",1.65,Groceries - Dairy,Tesco,IMG_3860.jpg
+508,1.0,30/07/2025,Tesco Lychee Pack 250g,2.5,Fruits,Tesco,IMG_3860.jpg
+509,1.0,30/07/2025,Tesco Mushroom Stir Fry 320g,1.8,Vegetables,Tesco,IMG_3860.jpg
+510,1.0,30/07/2025,Tesco Vegetable Stir Fry 320g,1.8,Vegetables,Tesco,IMG_3860.jpg
+511,1.0,30/07/2025,Tesco Baby Spinach 250g,1.15,Vegetables,Tesco,IMG_3860.jpg
+512,1.0,30/07/2025,Tesco Mint 30g,0.52,Groceries,Tesco,IMG_3860.jpg
+513,2.0,30/07/2025,Tesco Red Onions 3pack Minimum,1.9,Vegetables,Tesco,IMG_3860.jpg
+514,1.0,30/07/2025,Tesco Bananas Loose 1.2kg @ (£0.90/kg),1.08,Fruits,Tesco,IMG_3860.jpg
+515,1.0,30/07/2025,Tesco The Chicken Club Sandwich,3.25,Snacks,Tesco,IMG_3860.jpg
+516,1.0,30/07/2025,Tesco Hot & Spicy Chicken Wings 350g,3.3,Groceries - Meat,Tesco,IMG_3860.jpg
+517,1.0,30/07/2025,Tesco Coriander 100g,1.25,Groceries,Tesco,IMG_3860.jpg
+518,1.0,30/07/2025,Tesco Soya Beans 600g,3.35,Groceries,Tesco,IMG_3860.jpg
+519,1.0,30/07/2025,Oral-b 3d White Toothpaste - Arctic Fresh 75ml,2.5,Toiletries,Tesco,IMG_3860.jpg
+520,1.0,30/07/2025,Febreze Bathroom Air Freshener Cotton Fresh 7.5ml,2.5,Household,Tesco,IMG_3860.jpg
+521,1.0,30/07/2025,Listerine Total Care Teeth And Gum Fresh Mint Mouthwash 500ml,5.25,Toiletries,Tesco,IMG_3860.jpg
+522,1.0,30/07/2025,Tesco Multi-purpose Household Towel 1 Roll,1.49,Household,Tesco,IMG_3860.jpg
+523,1.0,30/07/2025,Tesco Korean Bbq Inspired Stir Fry Sauce 165g,1.15,Groceries,Tesco,IMG_3860.jpg
+524,1.0,30/07/2025,Tesco Large Baking Potatoes Loose,0.21,Vegetables,Tesco,IMG_3860.jpg
+525,1.0,30/07/2025,Tesco Summer Edition Greek Style Chicken Gyros Wrap,3.0,Snacks,Tesco,IMG_3860.jpg
+526,1.0,30/07/2025,Tesco Finest Roasted Nut Selection 150g,2.9,Snacks,Tesco,IMG_3860.jpg
+527,2.0,30/07/2025,Tesco Chayote Each,1.6,Vegetables,Tesco,IMG_3860.jpg
+528,1.0,30/07/2025,Yo! Mini Teriyaki Fried Chicken Bites P1,3.95,Snacks,Tesco,IMG_3860.jpg
+529,1.0,30/07/2025,Tesco Black Seedless Grapes 500g,1.9,Fruits,Tesco,IMG_3860.jpg
+530,2.0,30/07/2025,Tesco 2 Boneless Mackerel Fillets 160g,7.0,Groceries - Meat,Tesco,IMG_3860.jpg
+531,1.0,30/07/2025,Tesco 2 Boneless Salmon Fillets 260g,4.2,Groceries - Meat,Tesco,IMG_3860.jpg
+532,1.0,30/07/2025,Tesco British Chicken Drumsticks 1kg,2.15,Groceries - Meat,Tesco,IMG_3860.jpg
+533,1.0,30/07/2025,Fish Said Fred 2 Whole Sea Bass 520g,7.75,Groceries - Meat,Tesco,IMG_3860.jpg
+534,1.0,30/07/2025,Leo Bancroft Thermo Brush Medium,7.7,Household,Tesco,IMG_3860.jpg
+535,1.0,30/07/2025,Post-it Super Sticky Note Soulful Colour 76 Mm X 76 Mm,6.5,Household,Tesco,IMG_3860.jpg
+536,1.0,30/07/2025,Tesco Finest Tomatoes On The Vine 450g,2.0,Vegetables,Tesco,IMG_3860.jpg
+537,1.0,30/07/2025,Onken Set Natural Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3860.jpg
+538,1.0,12/08/2025,WRIGLEYS EXTRA WHITE,2.8,Snacks,Waitrose,IMG_3851.jpg
+539,1.0,12/08/2025,WR FILTERED SEMI,2.25,Drinks,Waitrose,IMG_3851.jpg
+540,1.0,12/08/2025,MAGNUM MINI WHITE,4.05,Snacks,Waitrose,IMG_3851.jpg
+541,1.0,12/08/2025,WR LEMON FRUIT FOOL,1.05,Snacks,Waitrose,IMG_3851.jpg
+542,1.0,12/08/2025,WR TRIP CHOC COOKIES,2.65,Snacks,Waitrose,IMG_3851.jpg
+543,1.0,12/08/2025,WR MULTISEED BATCH,1.69,Groceries,Waitrose,IMG_3851.jpg
+544,1.0,12/08/2025,WR CKN BRST FLTS,4.85,Groceries - Meat,Waitrose,IMG_3851.jpg
+545,1.0,12/08/2025,WR GREEN GRAPES,2.69,Fruits,Waitrose,IMG_3851.jpg
+546,1.0,12/08/2025,WR MUSHROOM STIR FRY,1.99,Vegetables,Waitrose,IMG_3851.jpg
+547,1.0,12/08/2025,WR EDAMAME STIR FRY,1.07,Vegetables,Waitrose,IMG_3851.jpg
+548,1.0,13/08/2025,JS GRK STYL YOG 500G,1.45,Groceries - Dairy,Sainsbury's,IMG_3850.jpg
+549,1.0,13/08/2025,LAVAZZA QUALITA ROSS,4.85,Drinks,Sainsbury's,IMG_3850.jpg
+550,1.0,22/06/2025,WR ESS UNUT CREAM,1.25,Snacks,Waitrose,IMG_3852.jpg
+551,1.0,22/06/2025,WR ESS COCONUT ILK,1.1,Drinks,Waitrose,IMG_3852.jpg
+552,1.0,22/06/2025,WR TRI CHOC COOKIES,2.65,Snacks,Waitrose,IMG_3852.jpg
+553,1.0,22/06/2025,V ROBINSONS A&BCURNT,2.29,Drinks,Waitrose,IMG_3852.jpg
+554,1.0,06/07/2025,V WRIGLEYS COOL BREEZE,3.35,Snacks,Waitrose,IMG_3853.jpg
+555,1.0,06/07/2025,WR ESS WHOLE MILK,1.79,Groceries - Dairy,Waitrose,IMG_3853.jpg
+556,1.0,06/07/2025,ONKEN NAT SET YOG,2.35,Groceries - Dairy,Waitrose,IMG_3853.jpg
+557,1.0,06/07/2025,WR MUSHROOM STIR FRY,1.99,Groceries,Waitrose,IMG_3853.jpg
+558,1.0,06/07/2025,WR APRICOT FRUIT FOO,1.05,Fruits,Waitrose,IMG_3853.jpg
+559,1.0,06/07/2025,WR SWEET CHILLI SCE,1.35,Groceries,Waitrose,IMG_3853.jpg
+560,1.0,06/07/2025,WR GINGER LOAF CAKE,2.99,Bakery,Waitrose,IMG_3853.jpg
+561,1.0,06/07/2025,WR TRIP CHOC COOKIES,2.65,Snacks,Waitrose,IMG_3853.jpg
+562,1.0,05/07/2025,CHKN CAESAR BAG,5.5,Groceries,M&S,IMG_3857.jpg
+563,1.0,05/07/2025,REDUCED,2.75,Groceries,M&S,IMG_3857.jpg
+564,1.0,05/07/2025,FRUIT SHERBETS,2.0,Snacks,M&S,IMG_3857.jpg
+565,1.0,05/07/2025,GRN VEG MEDLEY,3.5,Vegetables,M&S,IMG_3857.jpg
+566,1.0,05/07/2025,PINK LEMONADE,2.5,Drinks,M&S,IMG_3857.jpg
+567,1.0,05/07/2025,CHOC MLKSKE,2.4,Drinks,M&S,IMG_3857.jpg
+568,1.0,05/07/2025,FETA & SUN TOM,4.5,Groceries,M&S,IMG_3857.jpg
+569,1.0,05/07/2025,TUNA & SWEET COR,4.5,Groceries,M&S,IMG_3857.jpg
+570,1.0,05/07/2025,SMOKED SALMON,5.5,Groceries - Meat,M&S,IMG_3857.jpg
+571,1.0,05/07/2025,Food Paper Bag,0.4,Household,M&S,IMG_3857.jpg
+572,1.0,07/07/2025,Regular Flat White,3.45,Drinks,Tesco,IMG_3856.jpg
+573,1.0,07/07/2025,Tesco Cauliflower Each,1.19,Vegetables,Tesco,IMG_3856.jpg
+574,1.0,07/07/2025,Tesco British Chicken Drumstick Fillets 600g,12.09,Groceries - Meat,Tesco,IMG_3856.jpg
+575,2.0,07/07/2025,Tesco 2 Boneless Cod Fillets 200g,11.8,Groceries - Meat,Tesco,IMG_3856.jpg
+576,1.0,07/07/2025,Suntrail Farms Nectarines Minimum 4,1.89,Fruits,Tesco,IMG_3856.jpg
+577,2.0,07/07/2025,Tesco 2 Boneless Salmon Fillets 260g,8.4,Groceries - Meat,Tesco,IMG_3856.jpg
+578,1.0,07/07/2025,Tesco Baby Spinach 250g,1.15,Vegetables,Tesco,IMG_3856.jpg
+579,1.0,07/07/2025,Tesco Red Grapefruit Each,0.45,Fruits,Tesco,IMG_3856.jpg
+580,1.0,07/07/2025,Tesco Rocket Chillies 250g,1.7,Vegetables,Tesco,IMG_3856.jpg
+581,2.0,07/07/2025,Whitworths Stoned Sayer Dates 300g,4.2,Snacks,Tesco,IMG_3856.jpg
+582,1.0,07/07/2025,Tesco Finest Strawberries 300g,3.0,Fruits,Tesco,IMG_3856.jpg
+583,1.0,07/07/2025,Chop Garlic Puree 75g,1.6,Groceries,Tesco,IMG_3856.jpg
+584,1.0,07/07/2025,Tesco Organic Beetroot,2.2,Vegetables,Tesco,IMG_3856.jpg
+585,1.0,07/07/2025,Tesco Dudhi Each,3.55,Vegetables,Tesco,IMG_3856.jpg
+586,1.0,07/07/2025,Tesco British Semi Skimmed Milk 1.13l 2 Pack,1.2,Groceries - Dairy,Tesco,IMG_3856.jpg
+587,2.0,07/07/2025,Tesco Red Onions Pack,1.9,Vegetables,Tesco,IMG_3856.jpg
+588,1.0,07/07/2025,Tesco Cashew Nuts 200g,2.45,Snacks,Tesco,IMG_3856.jpg
+589,2.0,07/07/2025,Tesco Organic Garlic 3 Pack,2.0,Groceries,Tesco,IMG_3856.jpg
+590,1.0,07/07/2025,Tesco Coriander 100g,1.25,Groceries,Tesco,IMG_3856.jpg
+591,1.0,07/07/2025,Nong-shim Instant Shin Ramyun Noodle Soup 120g,1.2,Snacks,Tesco,IMG_3856.jpg
+592,1.0,07/07/2025,Tesco Chicken Breast Fillets 320g,2.4,Groceries - Meat,Tesco,IMG_3856.jpg
+593,1.0,07/07/2025,Onken Set Natural Yogurt 450g,1.95,Groceries - Dairy,Tesco,IMG_3856.jpg
+594,1.0,07/07/2025,Tesco Finger Chillies 80g,1.1,Vegetables,Tesco,IMG_3856.jpg
+595,1.0,07/07/2025,Tesco Baby Button Mushrooms 200g,1.15,Vegetables,Tesco,IMG_3856.jpg
+596,1.0,07/07/2025,Tesco Sink & Plughole Unblocker 500ml,2.25,Household,Tesco,IMG_3856.jpg
+597,1.0,07/07/2025,Mr Muscle Gel Unblocker 500ml,3.75,Household,Tesco,IMG_3856.jpg
+598,1.0,07/07/2025,Plenish Ginger Bottle 7x Shots,5.95,Drinks,Tesco,IMG_3856.jpg
+599,2.0,07/07/2025,Tesco Finest 1l White Wine 450g,4.0,Alcohol,Tesco,IMG_3856.jpg
+600,2.0,07/07/2025,Coconut Each,2.5,Snacks,Tesco,IMG_3856.jpg
+601,1.0,07/07/2025,Tesco Pistachios 200g,2.45,Snacks,Tesco,IMG_3856.jpg
+602,1.0,07/07/2025,Tesco Finest Fruit & Nut 190g,3.7,Snacks,Tesco,IMG_3856.jpg
+603,1.0,07/07/2025,Gillette Mach 3 Men's Razor Blades Refills 4 Pack,9.0,Toiletries,Tesco,IMG_3856.jpg
+604,1.0,10/07/2025,"Tesco British Semi Skimmed Milk 2.2721, 4 Pints",1.65,Groceries - Dairy,Tesco,IMG_3854.jpg
+605,1.0,10/07/2025,Tesco Maris Piper Potatoes 1.25kg (c),1.65,Vegetables,Tesco,IMG_3854.jpg
+606,1.0,10/07/2025,Tesco Crispy Sweet Potato Fries 300g,2.4,Vegetables,Tesco,IMG_3854.jpg
+607,1.0,10/07/2025,Innocent Smoothie Mangoes Passion Fruits & Apples 250ml,2.2,Drinks,Tesco,IMG_3854.jpg
+608,1.0,10/07/2025,"Innocent Super Smoothie Invigorate, Kiwi & Cucumber Juice With Vitamins 300ml",2.5,Drinks,Tesco,IMG_3854.jpg
+609,1.0,13/07/2025,WR ESS GREEK YOGURT,1.49,Groceries - Dairy,Waitrose,IMG_3855.jpg
+610,1.0,13/07/2025,TIMS DAIRY NATURAL,1.9,Groceries - Dairy,Waitrose,IMG_3855.jpg
+611,1.0,13/07/2025,WR LEMON FRUIT FOOL,1.05,Groceries,Waitrose,IMG_3855.jpg
+612,1.0,13/07/2025,WR APRICOT FRUIT FOO,1.05,Groceries,Waitrose,IMG_3855.jpg
+613,1.0,13/07/2025,WR BEL MCHOC COOKIES,2.65,Snacks,Waitrose,IMG_3855.jpg
+614,1.0,13/07/2025,WR CHOC PEANUTS,2.15,Snacks,Waitrose,IMG_3855.jpg
+615,1.0,13/07/2025,WR BANANA CAKE,2.99,Bakery,Waitrose,IMG_3855.jpg
+616,1.0,13/07/2025,MCVITIES RICH TEA,2.15,Snacks,Waitrose,IMG_3855.jpg
+617,1.0,11/06/2025,Onken Natural Biopot Yogurt kg,2.5,Groceries - Dairy,Tesco,IMG_3868.jpg
+618,1.0,11/06/2025,"Tesco British Semi Skimmed ilk 1.131, 2 Pints",1.2,Groceries - Dairy,Tesco,IMG_3868.jpg
+619,1.0,11/06/2025,Tesco Sweet Chilli Stir Fry Sauce 165g,1.15,Groceries,Tesco,IMG_3868.jpg
+620,1.0,11/06/2025,Tesco French Le Roule Garlic And Herbs Soft Cheese 125 G,2.5,Groceries - Dairy,Tesco,IMG_3868.jpg
+621,1.0,11/06/2025,Yo! Chicken Teriyaki Bites,6.25,Snacks,Tesco,IMG_3868.jpg
+622,1.0,11/06/2025,Tesco Finest Strawberries 300g,3.0,Fruits,Tesco,IMG_3868.jpg
+623,2.0,11/06/2025,Tesco Pistachios 200g,4.9,Snacks,Tesco,IMG_3868.jpg
+624,1.0,11/06/2025,Tesco Finest Salted Caramelised Nut Selection 225g,4.0,Snacks,Tesco,IMG_3868.jpg
+625,1.0,11/06/2025,Yo! Chicken Teriyaki Noodles,6.35,Snacks,Tesco,IMG_3868.jpg
+626,1.0,11/06/2025,Slumberdown Stay Cool 7.5 Tog Duvet Single,28.0,Household,Tesco,IMG_3868.jpg
+627,1.0,11/06/2025,Tesco Sweet Vine Ripened Tomatoes 255g,1.15,Vegetables,Tesco,IMG_3868.jpg
+628,1.0,11/06/2025,Tesco Red Onions Pack 1kg,0.95,Vegetables,Tesco,IMG_3868.jpg
+629,1.0,11/06/2025,Vita Coco Natural Coconut Water 1 Litre,4.0,Drinks,Tesco,IMG_3868.jpg
+630,1.0,11/06/2025,Febreze Bathroom Air Freshener Cotton Fresh 7.5ml,2.5,Household,Tesco,IMG_3868.jpg
+631,1.0,11/06/2025,Tesco Mushroom Stir Fry 320g,1.8,Groceries,Tesco,IMG_3868.jpg
+632,1.0,11/06/2025,Tesco Large Vegetable Stir Fry 570g,1.6,Groceries,Tesco,IMG_3868.jpg
+633,1.0,11/06/2025,Tesco Baby Spinach 250g,1.15,Vegetables,Tesco,IMG_3868.jpg
+634,1.0,11/06/2025,Ferrero Rocher Hazelnut Dark 55% Chocolate Bar 90g,2.7,Snacks,Tesco,IMG_3868.jpg
+635,1.0,11/06/2025,Tesco Desiccated Coconut 200g,2.0,Groceries,Tesco,IMG_3868.jpg
+636,1.0,11/06/2025,Lindt Excellence Dark Chocolate Bar - Orange Intense 100g,3.0,Snacks,Tesco,IMG_3868.jpg
+637,1.0,11/06/2025,Tesco Carrots Loose,0.08,Vegetables,Tesco,IMG_3868.jpg
+638,1.0,11/06/2025,Tesco Large Free Range Eggs 12 Pack,3.15,Groceries,Tesco,IMG_3868.jpg
+639,2.0,11/06/2025,Tesco 2 Boneless Sea Bass Fillets 180g,9.0,Groceries - Meat,Tesco,IMG_3868.jpg
+640,1.0,11/06/2025,Tesco British Chicken Thigh Fillets 600g,5.1,Groceries - Meat,Tesco,IMG_3868.jpg
+641,2.0,11/06/2025,Tesco 2 Boneless Salmon Fillets 260g,8.4,Groceries - Meat,Tesco,IMG_3868.jpg
+642,1.0,05/06/2025,Regular Flat White,3.45,Drinks,Tesco,IMG_3869.jpg
+643,1.0,05/06/2025,Innocent Plus Blue Bolt Guava & Lime Juice With Vitamins 750ml,4.0,Drinks,Tesco,IMG_3869.jpg
+644,1.0,05/06/2025,"Tesco British Semi Skimmed Milk 1.131, 2 Pints",1.2,Groceries - Dairy,Tesco,IMG_3869.jpg
+645,1.0,05/06/2025,Onken Set Natural Yogurt 450g,1.95,Groceries - Dairy,Tesco,IMG_3869.jpg
+646,2.0,05/06/2025,Tesco 2 Boneless Salmon Fillets 260g,8.4,Groceries - Meat,Tesco,IMG_3869.jpg
+647,1.0,05/06/2025,Ferrero Rocher Original Milk Chocolate Bar 90g,2.7,Snacks,Tesco,IMG_3869.jpg
+648,2.0,05/06/2025,Tesco 2 Boneless Sea Bass Fillets 180g,9.0,Groceries - Meat,Tesco,IMG_3869.jpg
+649,1.0,05/06/2025,Tesco British Chicken Breast Fillets 650g,4.79,Groceries - Meat,Tesco,IMG_3869.jpg
+650,1.0,05/06/2025,Lavazza Crema E Gusto Coffee 250g,5.75,Groceries,Tesco,IMG_3869.jpg
+651,1.0,05/06/2025,Tesco Crispy Sweet Potato Fries 300g,2.1,Snacks,Tesco,IMG_3869.jpg
+652,1.0,05/06/2025,Tesco Finest Red Grapes Seedless 500g,2.6,Fruits,Tesco,IMG_3869.jpg
+653,2.0,05/06/2025,Tesco Pepper Stir Fry 320g,3.6,Vegetables,Tesco,IMG_3869.jpg
+654,1.0,05/06/2025,Tesco Stir Fry Teriyaki Chicken 650g,5.0,Groceries - Meat,Tesco,IMG_3869.jpg
+655,1.0,05/06/2025,Tesco Finest Extra Fine Beans 200g,1.5,Vegetables,Tesco,IMG_3869.jpg
+656,1.0,05/06/2025,Whitworths Stoned Sayer Dates 300g,2.1,Snacks,Tesco,IMG_3869.jpg
+657,1.0,05/06/2025,Tesco Fresh Cut Coriander 30g,0.52,Vegetables,Tesco,IMG_3869.jpg
+658,1.0,05/06/2025,Fish Said Fred 2 Whole Sea Bass 520g,7.5,Groceries - Meat,Tesco,IMG_3869.jpg
+659,1.0,05/06/2025,Plenish Ginger Immunity Dosing Bottle 7x Shots 420m1,5.95,Drinks,Tesco,IMG_3869.jpg
+660,1.0,05/06/2025,Tesco Bananas Loose 0.74kg @ (£0.90/kg),0.67,Fruits,Tesco,IMG_3869.jpg
+661,1.0,05/06/2025,Tesco Carrots Loose,0.06,Vegetables,Tesco,IMG_3869.jpg
+662,1.0,05/06/2025,Tesco Finest Lime Infused Mango 100g,3.6,Fruits,Tesco,IMG_3869.jpg
+663,1.0,05/06/2025,Tesco Finest Salted Caramelised Nut Selection 225g,4.0,Snacks,Tesco,IMG_3869.jpg
+664,1.0,05/06/2025,Tesco Tomatoes On The Vine 500g,1.19,Vegetables,Tesco,IMG_3869.jpg
+665,2.0,05/06/2025,Tesco Pistachios 200g,4.9,Snacks,Tesco,IMG_3869.jpg
+666,1.0,05/06/2025,Tesco Perfectly Ripe Mango,0.89,Fruits,Tesco,IMG_3869.jpg
+667,1.0,05/06/2025,Yo! Mixed Box 5,9.95,Snacks,Tesco,IMG_3869.jpg
+668,1.0,05/06/2025,Yo! Teriyaki Chicken Bites Mini Pack,3.7,Snacks,Tesco,IMG_3869.jpg
+669,1.0,05/06/2025,Tesco Pomegranate Seeds 80g,1.4,Fruits,Tesco,IMG_3869.jpg
+670,1.0,05/06/2025,Tesco Dudhi Each,3.55,Vegetables,Tesco,IMG_3869.jpg
+671,1.0,05/06/2025,Tesco Sweet Chilli Stir Fry Sauce 165g,1.15,Groceries,Tesco,IMG_3869.jpg
+672,1.0,05/06/2025,Saxa Salt 750g,1.8,Household,Tesco,IMG_3869.jpg
+673,1.0,01/06/2022,JS NAT YOG 1KG,1.7,Groceries - Dairy,Sainsbury's,IMG_3904.jpg
+674,1.0,01/06/2022,ALPRO ALMOND DRINK,1.25,Drinks,Sainsbury's,IMG_3904.jpg
+675,0.61,01/06/2022,ONIONS RED LSE,0.49,Vegetables,Sainsbury's,IMG_3904.jpg
+676,1.0,01/06/2022,THIGHS & DRUMS,1.8,Groceries - Meat,Sainsbury's,IMG_3904.jpg
+677,2.0,01/06/2022,JS 2 SALMON FILLETS,3.5,Groceries - Meat,Sainsbury's,IMG_3904.jpg
+678,1.0,01/06/2022,JS C CUP MUSHROOMS,0.75,Vegetables,Sainsbury's,IMG_3904.jpg
+679,1.0,01/06/2022,JS BABYCORN,1.6,Vegetables,Sainsbury's,IMG_3904.jpg
+680,0.102,01/06/2022,GINGER LOOSE,0.54,Vegetables,Sainsbury's,IMG_3904.jpg
+681,6.0,01/06/2022,CLASSIC TOMATOES X6,0.69,Vegetables,Sainsbury's,IMG_3904.jpg
+682,1.0,01/06/2022,JS CAESAR SALAD,2.0,Groceries,Sainsbury's,IMG_3904.jpg
+683,1.0,01/06/2022,JS CRUNCY STIR FRY,0.95,Groceries,Sainsbury's,IMG_3904.jpg
+684,6.0,01/06/2022,JS LARGE EGGS X6,1.4,Groceries - Dairy,Sainsbury's,IMG_3904.jpg
+685,1.0,01/06/2022,*JS BAG FOR LIFE,0.2,Household,Sainsbury's,IMG_3904.jpg
+686,1.0,05/08/2025,YEO VALLEY ORG NAT,2.35,Groceries - Dairy,Waitrose,IMG_3870.jpg
+687,1.0,05/08/2025,WR ESS SEMI SKIMMED,1.79,Groceries - Dairy,Waitrose,IMG_3870.jpg
+688,1.0,05/08/2025,WR VEG COUSCOUS,2.95,Groceries,Waitrose,IMG_3870.jpg
+689,1.0,05/08/2025,WR F/R EGGS LARGE,2.59,Groceries,Waitrose,IMG_3870.jpg
+690,1.0,05/08/2025,WR SOY & GINGER SCE,1.35,Groceries,Waitrose,IMG_3870.jpg
+691,1.0,05/08/2025,WR GINGER LOAF CAKE,2.99,Bakery,Waitrose,IMG_3870.jpg
+692,1.0,05/08/2025,WR MUSHROOM STIR FRY,1.99,Groceries,Waitrose,IMG_3870.jpg
+693,1.0,05/08/2025,WR EDAMAME STIR FRY,1.99,Groceries,Waitrose,IMG_3870.jpg
+694,1.0,05/08/2025,WR CHOC SBREAD 4S,2.65,Bakery,Waitrose,IMG_3870.jpg
+695,1.0,05/08/2025,WR GOOSEBERRY FOOL,1.05,Groceries,Waitrose,IMG_3870.jpg
+696,1.0,08/06/2022,NAS DIET CLDY L,1.55,Groceries,M&S,IMG_3871.jpg
+697,1.0,08/06/2022,FALAFEL WRAP,4.0,Groceries,M&S,IMG_3871.jpg
+698,1.0,04/06/2022,SEMI 4 PTS,1.3,Groceries,M&S,IMG_3905.jpg
+699,1.0,04/06/2022,CAFE GRAN 100G,1.1,Groceries,M&S,IMG_3905.jpg
+700,1.0,04/06/2022,SIMPLY SPAGHETT,0.75,Groceries,M&S,IMG_3905.jpg
+701,1.0,04/06/2022,Las Dalias Malb,10.0,Alcohol,M&S,IMG_3905.jpg
+702,1.0,04/06/2022,LOOSE ENG BRKF,2.0,Groceries,M&S,IMG_3905.jpg
+703,1.0,04/06/2022,EASY COOK LONG,2.5,Groceries,M&S,IMG_3905.jpg
+704,1.0,04/06/2022,NAS DIET CLDY L,1.35,Groceries,M&S,IMG_3905.jpg
+705,1.0,04/06/2022,KING PRAWNS,3.5,Groceries - Meat,M&S,IMG_3905.jpg
+706,1.0,04/06/2022,LG CARRIER BAG,0.15,Household,M&S,IMG_3905.jpg
+707,1.0,21/01/2024,LFE BIN SAUV BLANC,9.89,Alcohol,Waitrose,IMG_3873.jpg
+708,1.0,21/01/2024,WP SALMON FILLETS,5.95,Groceries - Meat,Waitrose,IMG_3873.jpg
+709,1.0,21/01/2024,WR ESS THIGH FILLETS,4.63,Groceries - Meat,Waitrose,IMG_3873.jpg
+710,1.0,21/01/2024,WR ESS SEMI SKIMMED,1.35,Groceries - Dairy,Waitrose,IMG_3873.jpg
+711,1.0,21/01/2024,INNOCENT SMOOTHIE,3.89,Drinks,Waitrose,IMG_3873.jpg
+712,1.0,21/01/2024,WR SDLSS GRAPE SLCT,2.8,Fruits,Waitrose,IMG_3873.jpg
+713,1.0,21/01/2024,WR POMEGRANATE,2.45,Fruits,Waitrose,IMG_3873.jpg
+714,1.0,21/01/2024,WR CHKP SPNCH ONA,2.09,Vegetables,Waitrose,IMG_3873.jpg
+715,1.0,21/01/2024,WR POP GARDEN PEAS,1.2,Vegetables,Waitrose,IMG_3873.jpg
+716,1.0,21/01/2024,WR RED ONIONS,1.29,Vegetables,Waitrose,IMG_3873.jpg
+717,1.0,21/01/2024,WR WATERCRESS,1.65,Vegetables,Waitrose,IMG_3873.jpg
+718,1.0,21/01/2024,WR&P BAG FOR LIFE UK,0.3,Household,Waitrose,IMG_3873.jpg
+719,0.382,14/06/2022,CARROTS LOOSE,0.15,Vegetables,Sainsbury's,IMG_3898.jpg
+720,1.0,14/06/2022,KIC COCONUT MILK,0.9,Groceries,Sainsbury's,IMG_3898.jpg
+721,1.0,14/06/2022,STARBUCKS CARAMEL,1.25,Drinks,Sainsbury's,IMG_3898.jpg
+722,1.0,14/06/2022,STARBUCKS CARAMEL,1.25,Drinks,Sainsbury's,IMG_3898.jpg
+723,6.0,10/05/2022,CLASSIC TOMATOES X6,0.69,Vegetables,Sainsbury's,IMG_3899.jpg
+724,1.0,10/05/2022,JS MED GRATD CHEDDAR,2.05,Groceries - Dairy,Sainsbury's,IMG_3899.jpg
+725,1.0,10/05/2022,SO ORGANIC ONIONS,1.3,Vegetables,Sainsbury's,IMG_3899.jpg
+726,1.0,10/05/2022,JS COARSE PEPPER,1.1,Groceries,Sainsbury's,IMG_3899.jpg
+727,1.0,10/05/2022,JSTABLE SALT POLYB,0.27,Groceries,Sainsbury's,IMG_3899.jpg
+728,1.0,10/05/2022,*JS BRT WTR 5L MU,1.3,Drinks,Sainsbury's,IMG_3899.jpg
+729,1.0,10/05/2022,ARLA SKYR CREAMY,1.0,Groceries - Dairy,Sainsbury's,IMG_3899.jpg
+730,1.0,10/05/2022,ORG WHLE MLK 1.136L,1.35,Groceries - Dairy,Sainsbury's,IMG_3899.jpg
+731,1.0,01/04/2024,Tesco Finest Black Grapes Seedless 400g,2.3,Fruits,Tesco,IMG_3872.jpg
+732,1.0,01/04/2024,Tesco Tempura Prawns 200g,2.95,Groceries - Meat,Tesco,IMG_3872.jpg
+733,1.0,01/04/2024,Tesco Greek Salad 185g,2.75,Groceries,Tesco,IMG_3872.jpg
+734,1.0,01/04/2024,Yo! Salmon Snack Pack,8.35,Snacks,Tesco,IMG_3872.jpg
+735,1.0,01/04/2024,Tesco Coriander Medium Pot,1.5,Groceries,Tesco,IMG_3872.jpg
+736,1.0,01/04/2024,Hg Drain Hair Unblocker 450 Ml,7.9,Household,Tesco,IMG_3872.jpg
+737,1.0,01/04/2024,Tesco Root Ginger Loose,0.66,Groceries,Tesco,IMG_3872.jpg
+738,1.0,01/04/2024,Innocent Smoothie Strawberries & Bananas 750ml,3.5,Drinks,Tesco,IMG_3872.jpg
+739,1.0,01/04/2024,Tesco Carrot Sweetcorn & Peas Layered Vegetable 355g,2.0,Vegetables,Tesco,IMG_3872.jpg
+740,1.0,01/04/2024,Tesco Shallots Onions 400g,1.35,Vegetables,Tesco,IMG_3872.jpg
+741,1.0,01/04/2024,Tesco Baby Button Mushrooms 200g,1.15,Groceries,Tesco,IMG_3872.jpg
+742,1.0,01/04/2024,Fresh & Naked Spinach 125g,1.2,Vegetables,Tesco,IMG_3872.jpg
+743,1.0,01/04/2024,Tesco Pomegranate Crush Fruit Smoothie 750ml,1.8,Drinks,Tesco,IMG_3872.jpg
+744,1.0,01/04/2024,Tesco Dudhi Each,3.0,Vegetables,Tesco,IMG_3872.jpg
+745,2.0,01/04/2024,Tesco Pistachio Nuts 200g,5.3,Snacks,Tesco,IMG_3872.jpg
+746,1.0,01/04/2024,Tesco Clementine Or Sweet Easy Peeler Pack 600g,1.35,Fruits,Tesco,IMG_3872.jpg
+747,1.0,01/04/2024,Tyrrells Tomato & Chilli Chutney Flavoured Crisps 150g,2.5,Snacks,Tesco,IMG_3872.jpg
+748,1.0,01/04/2024,Tesco Tomatoes On The Vine 500g,1.39,Vegetables,Tesco,IMG_3872.jpg
+749,1.0,01/04/2024,Tyrrells Crisps Mature Cheddar & Chive 150g,2.5,Snacks,Tesco,IMG_3872.jpg
+750,1.0,01/04/2024,Tesco Limes Minimum 5 Pack,1.19,Fruits,Tesco,IMG_3872.jpg
+751,1.0,01/04/2024,Hg Mould Spray 500ml,5.25,Household,Tesco,IMG_3872.jpg
+752,1.0,01/04/2024,Tesco Boneless Cold Smoked Mackerel Fillets 160g,3.35,Groceries - Meat,Tesco,IMG_3872.jpg
+753,1.0,01/04/2024,Tesco 2 Cape Hake Fillets 240g,4.4,Groceries - Meat,Tesco,IMG_3872.jpg
+754,1.0,01/04/2024,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,6.5,Groceries - Meat,Tesco,IMG_3872.jpg
+755,1.0,01/04/2024,Haribo Halal Gold Bears 100g,1.25,Snacks,Tesco,IMG_3872.jpg
+756,1.0,01/04/2024,Command Medium Hooks 2 Pack,3.7,Household,Tesco,IMG_3872.jpg
+757,1.0,01/04/2024,Tesco Green Peppers Each,0.59,Vegetables,Tesco,IMG_3872.jpg
+758,1.0,01/04/2024,Koh-i-noor Besan Gram Flour 1kg,2.3,Groceries,Tesco,IMG_3872.jpg
+759,1.0,01/04/2024,Onken Natural Set Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3872.jpg
+760,1.0,01/04/2024,Tesco 10 British Barn Eggs,1.33,Groceries - Dairy,Tesco,IMG_3872.jpg
+761,1.0,05/11/2022,Outwear 1067324 XS Beige,49.99,Clothing,H&M,IMG_3906.jpg
+762,1.0,05/11/2022,Carryout Bag charge 1000039,0.2,Other,H&M,IMG_3906.jpg
+763,1.0,05/11/2022,Bags 1120878 NOSIZE Black,12.99,Clothing,H&M,IMG_3906.jpg
+764,1.0,05/11/2022,Heavy Basic Jersey 0970819 S Grey,17.99,Clothing,H&M,IMG_3906.jpg
+765,1.0,05/11/2022,Knitwear 1085526 S Brown,34.99,Clothing,H&M,IMG_3906.jpg
+766,1.0,05/11/2022,Knitwear 0863595 S Black,17.99,Clothing,H&M,IMG_3906.jpg
+767,1.0,05/11/2022,Other items 0130035 NOSIZE Black,5.99,Clothing,H&M,IMG_3906.jpg
+768,1.0,17/06/2022,FAMOUS GROUSE 35CL,9.0,Alcohol,Sainsbury's,IMG_3902.jpg
+769,1.0,17/06/2022,ABSOLUT VANILLA,16.0,Alcohol,Sainsbury's,IMG_3902.jpg
+770,1.0,17/06/2022,IND NY MILL CHS CKE,1.75,Bakery,Sainsbury's,IMG_3902.jpg
+771,1.0,17/06/2022,CN OAT GRN FRUIT NUT,2.5,Snacks,Sainsbury's,IMG_3902.jpg
+772,1.0,17/06/2022,INNOCENT COCONUT WA,3.65,Drinks,Sainsbury's,IMG_3902.jpg
+773,1.0,17/06/2022,CN OAT GRN FRUIT NUT,2.5,Snacks,Sainsbury's,IMG_3902.jpg
+774,1.0,30/05/2022,JS MILD GRTD CD 250G,2.05,Groceries,Sainsbury's,IMG_3876.JPG
+775,2.0,30/05/2022,JS SINGLE MANGO,1.3,Fruits,Sainsbury's,IMG_3876.JPG
+776,1.0,30/05/2022,JS SINGLE MANGO,0.65,Fruits,Sainsbury's,IMG_3876.JPG
+777,1.0,30/05/2022,JS APPLE BPAEBURN X6,1.7,Fruits,Sainsbury's,IMG_3876.JPG
+778,1.0,30/05/2022,GINGER PAS IF 80G,1.6,Groceries,Sainsbury's,IMG_3876.JPG
+779,1.0,30/05/2022,JS NATURAL YOG 500G,0.9,Groceries - Dairy,Sainsbury's,IMG_3876.JPG
+780,1.0,12/05/2022,EXTRA PEPPERMINT,0.65,Snacks,Sainsbury's,IMG_3889.jpg
+781,1.0,12/05/2022,EXTRA PEPPERMINT,0.65,Snacks,Sainsbury's,IMG_3889.jpg
+782,1.0,12/05/2022,EXTRA PEPPERMINT,0.65,Snacks,Sainsbury's,IMG_3889.jpg
+783,1.0,12/05/2022,EXTRA PEPPERMINT,0.65,Snacks,Sainsbury's,IMG_3889.jpg
+784,1.0,12/05/2022,FREEE GF RCE FLR,1.25,Groceries,Sainsbury's,IMG_3889.jpg
+785,1.0,12/05/2022,MINI CHCKN FLTS 640G,4.4,Groceries - Meat,Sainsbury's,IMG_3889.jpg
+786,1.0,12/05/2022,BGTY NAT YOG 500G,0.85,Groceries - Dairy,Sainsbury's,IMG_3889.jpg
+787,1.0,12/05/2022,GIL DISP RAZOR X3,3.5,Toiletries,Sainsbury's,IMG_3889.jpg
+788,1.0,12/05/2022,MACKAYS SEEDLSS PRS,1.7,Snacks,Sainsbury's,IMG_3889.jpg
+789,1.0,14/05/2022,EW TUNA/SCORN,3.2,Groceries,M&S,IMG_3888.jpg
+790,1.0,14/05/2022,2PT ORG ENG SS,1.25,Groceries,M&S,IMG_3888.jpg
+791,1.0,14/05/2022,Scottish still,1.2,Drinks,M&S,IMG_3888.jpg
+792,1.0,24/05/2022,JS SPINACH 260G,1.5,Vegetables,Sainsbury's,IMG_3877.jpg
+793,1.0,24/05/2022,JS GRK STYL YOG 500G,0.9,Groceries - Dairy,Sainsbury's,IMG_3877.jpg
+794,1.0,24/05/2022,SO ORG RED ONIONS,1.25,Vegetables,Sainsbury's,IMG_3877.jpg
+795,1.0,24/05/2022,TOM/MOZ CHICKEN,4.0,Groceries - Meat,Sainsbury's,IMG_3877.jpg
+796,1.0,24/05/2022,TTD VINE TOM 300G,2.25,Vegetables,Sainsbury's,IMG_3877.jpg
+797,4.0,24/05/2022,JS GARLIC X4,1.0,Vegetables,Sainsbury's,IMG_3877.jpg
+798,1.0,24/05/2022,JS SINGLE MANGO,0.65,Fruits,Sainsbury's,IMG_3877.jpg
+799,1.0,24/05/2022,*EXTRA SPEARMINT,0.65,Groceries,Sainsbury's,IMG_3877.jpg
+800,1.0,24/05/2022,*EXTRA SPEARMINT,0.65,Groceries,Sainsbury's,IMG_3877.jpg
+801,1.0,24/05/2022,JS FINGER CHILLIES,1.0,Vegetables,Sainsbury's,IMG_3877.jpg
+802,1.0,24/05/2022,PEPPER GREEN,0.48,Vegetables,Sainsbury's,IMG_3877.jpg
+803,1.0,01/06/2022,ALMONDS,2.5,Snacks,M&S,IMG_3903.jpg
+804,1.0,01/06/2022,CHK CAESAR WP,4.25,Groceries,M&S,IMG_3903.jpg
+805,1.0,01/06/2022,MOZZARELLA & PE,4.0,Groceries - Dairy,M&S,IMG_3903.jpg
+806,1.0,04/06/2022,Collar Wrap Midi,39.5,Clothing,M&S,IMG_3901.jpg
+807,1.0,04/06/2022,Midi Wrap Dress,39.5,Clothing,M&S,IMG_3901.jpg
+808,1.0,04/06/2022,ESS 5PP 10D NYLON,4.0,Clothing,M&S,IMG_3901.jpg
+809,1.0,10/04/2024,Tesco Growing Mint Medium Pot,1.5,Groceries,Tesco,IMG_3875.jpg
+810,1.0,10/04/2024,Tesco Coriander Medium Pot,1.5,Groceries,Tesco,IMG_3875.jpg
+811,1.0,10/04/2024,Regular Cappuccino,3.1,Drinks,Tesco,IMG_3875.jpg
+812,1.0,10/04/2024,Beavertown Neck Oil Session Ipa 4x330ml,8.25,Alcohol,Tesco,IMG_3875.jpg
+813,1.0,10/04/2024,Tesco Shallots Onions 400g,1.35,Vegetables,Tesco,IMG_3875.jpg
+814,1.0,10/04/2024,Tesco Red Onions Pack 1kg,0.95,Vegetables,Tesco,IMG_3875.jpg
+815,1.0,10/04/2024,Tesco Watercress 80g,1.35,Vegetables,Tesco,IMG_3875.jpg
+816,1.0,10/04/2024,Tesco Korean Style Chicken Thigh Fillets 390g,4.5,Groceries - Meat,Tesco,IMG_3875.jpg
+817,1.0,10/04/2024,Tesco Edamame Beans 150g,1.5,Groceries,Tesco,IMG_3875.jpg
+818,1.0,10/04/2024,Tesco British Chicken Drumsticks 1kg,3.0,Groceries - Meat,Tesco,IMG_3875.jpg
+819,1.0,10/04/2024,Tesco Italian Inspired Coffee Beans Medium - Strong 454g,4.8,Groceries,Tesco,IMG_3875.jpg
+820,2.0,10/04/2024,Tesco Pistachio Nuts 200g,5.3,Snacks,Tesco,IMG_3875.jpg
+821,1.0,10/04/2024,Brewdog Hazy Jane 440ml,2.75,Alcohol,Tesco,IMG_3875.jpg
+822,1.0,10/04/2024,Tesco Greek Salad 185g,2.75,Groceries,Tesco,IMG_3875.jpg
+823,1.0,10/04/2024,Tesco Long Life Aaa 4 Pack,1.75,Groceries,Tesco,IMG_3875.jpg
+824,1.0,10/04/2024,"Tesco British Semi Skimmed Milk 1.13l, 2 Pints",1.2,Groceries - Dairy,Tesco,IMG_3875.jpg
+825,1.0,10/04/2024,Innocent Smoothie Strawberries & Bananas 750ml,3.5,Drinks,Tesco,IMG_3875.jpg
+826,1.0,10/04/2024,Innocent Berry Set Go Juice 750ml,3.8,Drinks,Tesco,IMG_3875.jpg
+827,1.0,10/04/2024,Innocent Citrus Shield Juice 750ml,3.8,Drinks,Tesco,IMG_3875.jpg
+828,2.0,10/04/2024,Tesco Oranges Each,0.6,Fruits,Tesco,IMG_3875.jpg
+829,1.0,10/04/2024,Walkers Sunbites Sour Cream & Black Pepper Multipack Crisps 6x25g,1.95,Snacks,Tesco,IMG_3875.jpg
+830,1.0,10/04/2024,Onken Natural Set Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3875.jpg
+831,1.0,10/04/2024,Tesco Perfectly Ripe Mango,1.19,Fruits,Tesco,IMG_3875.jpg
+832,1.0,10/04/2024,Tesco 10 British Barn Eggs,1.33,Groceries,Tesco,IMG_3875.jpg
+833,1.0,10/04/2024,Spontex Heavy Duty Scourer Pads 3 Pack,1.3,Household,Tesco,IMG_3875.jpg
+834,1.0,10/04/2024,Tesco Hot & Spicy Chicken Wings 350g,3.0,Groceries - Meat,Tesco,IMG_3875.jpg
+835,1.0,10/04/2024,Tesco Lemons 4 Pack,1.2,Fruits,Tesco,IMG_3875.jpg
+836,1.0,10/04/2024,Tesco Bananas Loose 0.555kg @ (£0.90/kg),0.5,Fruits,Tesco,IMG_3875.jpg
+837,1.0,10/04/2024,Yo! Salmon Snack Pack,4.95,Groceries - Meat,Tesco,IMG_3875.jpg
+838,1.0,10/04/2024,Tesco Finest Red Grapes Seedless 400g,2.3,Fruits,Tesco,IMG_3875.jpg
+839,2.0,10/04/2024,Tesco Tomatoes On The Vine 500g,2.78,Vegetables,Tesco,IMG_3875.jpg
+840,2.0,10/04/2024,Kingfisher Premium Lager 650ml,5.0,Alcohol,Tesco,IMG_3875.jpg
+841,1.0,10/04/2024,Tesco Whole Cucumber Each,0.89,Vegetables,Tesco,IMG_3875.jpg
+842,1.0,10/04/2024,Tesco Clementine Or Sweet Easy Peeler Pack 600g,1.35,Fruits,Tesco,IMG_3875.jpg
+843,1.0,10/04/2024,Tesco Chestnut Mushrooms 250g,1.1,Vegetables,Tesco,IMG_3875.jpg
+844,1.0,10/04/2024,Tesco 2 Thai Inspired Roasted Salmon Fillets 180g,5.5,Groceries - Meat,Tesco,IMG_3875.jpg
+845,1.0,10/04/2024,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,6.5,Groceries - Meat,Tesco,IMG_3875.jpg
+846,2.0,10/04/2024,Tesco 2 Boneless Mackerel Fillets 160g,5.0,Groceries - Meat,Tesco,IMG_3875.jpg
+847,1.0,10/04/2024,Wild Harbour Coley Fillets 240g,3.0,Groceries - Meat,Tesco,IMG_3875.jpg
+848,1.0,15/04/2024,Thornbridge Jaipur Ipa 4x330ml Can,6.0,Alcohol,Tesco,IMG_3874.jpg
+849,1.0,15/04/2024,Beavertown Neck 011 Session Ipa 4x330ml,8.25,Alcohol,Tesco,IMG_3874.jpg
+850,1.0,15/04/2024,Tesco Medium Free Range Eggs 6 Pack,1.5,Groceries - Dairy,Tesco,IMG_3874.jpg
+851,1.0,15/04/2024,Innocent Citrus Shield Juice 750ml,3.0,Drinks,Tesco,IMG_3874.jpg
+852,1.0,15/04/2024,Innocent Pineapples Bananas & Coconuts Smoothie 750ml,3.5,Drinks,Tesco,IMG_3874.jpg
+853,1.0,15/04/2024,Tesco Baby Spinach 220g,1.35,Vegetables,Tesco,IMG_3874.jpg
+854,1.0,15/04/2024,Tesco Chestnut Baby Button Mushrooms 150g,1.05,Vegetables,Tesco,IMG_3874.jpg
+855,1.0,15/04/2024,Tesco Tomatoes On The Vine 500g,1.39,Vegetables,Tesco,IMG_3874.jpg
+856,1.0,15/04/2024,"Tesco British Semi Skimmed Milk 2.2721, 4 Pints",1.45,Groceries - Dairy,Tesco,IMG_3874.jpg
+857,1.0,15/04/2024,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,6.5,Groceries - Meat,Tesco,IMG_3874.jpg
+858,1.0,15/04/2024,Yo! Salmon Snack Pack,4.95,Snacks,Tesco,IMG_3874.jpg
+859,1.0,15/04/2024,Onken Natural Set Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3874.jpg
+860,2.0,15/04/2024,Tesco Edamame Beans 150g,3.0,Groceries,Tesco,IMG_3874.jpg
+861,2.0,15/04/2024,Tesco Pistachio Nuts 200g,5.3,Snacks,Tesco,IMG_3874.jpg
+862,2.0,15/04/2024,Tesco Greek Salad 185g,5.5,Groceries,Tesco,IMG_3874.jpg
+863,1.0,15/04/2024,Tesco Cauliflower Each,1.09,Vegetables,Tesco,IMG_3874.jpg
+864,1.0,15/04/2024,Tesco Green Peppers Each,0.59,Vegetables,Tesco,IMG_3874.jpg
+865,1.0,15/04/2024,Costa Amazonian Blend Whole Coffee Beans 200g,4.0,Groceries,Tesco,IMG_3874.jpg
+866,1.0,15/04/2024,Tesco Aubergine Each,0.95,Vegetables,Tesco,IMG_3874.jpg
+867,1.0,15/04/2024,Tesco Whole Cucumber Each,0.89,Vegetables,Tesco,IMG_3874.jpg
+868,1.0,15/04/2024,Scholl Corn Removal Plasters Foot Care,4.0,Toiletries,Tesco,IMG_3874.jpg
+869,1.0,15/04/2024,Tesco 2 Boneless Mackerel Fillets 100g,2.5,Groceries - Meat,Tesco,IMG_3874.jpg
+870,1.0,15/04/2024,Old El Paso Original Cheesy Baked Nacho Kit 505g,2.49,Snacks,Tesco,IMG_3874.jpg
+871,1.0,15/04/2024,Tesco Finest Extra Fine Beans 200g,1.55,Groceries,Tesco,IMG_3874.jpg
+872,1.0,15/04/2024,Tesco Finest Clementine Or Sweet Easy Peeler 600g,2.5,Fruits,Tesco,IMG_3874.jpg
+873,1.0,15/06/2022,JS NAT YOG 1KG,1.7,Groceries - Dairy,Sainsbury's,IMG_3900.jpg
+874,1.0,15/06/2022,JS SEA BASS FILLETS,3.5,Groceries - Meat,Sainsbury's,IMG_3900.jpg
+875,4.0,15/06/2022,JS PINKLADY APPLE X4,2.2,Fruits,Sainsbury's,IMG_3900.jpg
+876,1.0,15/06/2022,FULFIL SLTED CARAME,1.5,Snacks,Sainsbury's,IMG_3900.jpg
+877,1.0,15/06/2022,FULFIL SLTED CAF,1.5,Snacks,Sainsbury's,IMG_3900.jpg
+878,1.0,26/05/2022,EVIAN 1.5L,1.1,Drinks,Sainsbury's,IMG_3879.jpg
+879,1.0,26/05/2022,EVIAN 1.5L,1.1,Drinks,Sainsbury's,IMG_3879.jpg
+880,1.0,26/05/2022,SO S/SKIM MLK 1.136L,1.08,Groceries - Dairy,Sainsbury's,IMG_3879.jpg
+881,1.0,26/05/2022,SPONTEX SCOURER,1.5,Household,Sainsbury's,IMG_3879.jpg
+882,2.0,26/05/2022,JS 2 SALMON FILLETS,3.5,Groceries - Meat,Sainsbury's,IMG_3879.jpg
+883,1.0,26/05/2022,FLORETTE CRISPY 170G,1.6,Vegetables,Sainsbury's,IMG_3879.jpg
+884,12.0,26/05/2022,JS EGGS X12,2.2,Groceries - Dairy,Sainsbury's,IMG_3879.jpg
+885,1.0,23/05/2022,EVIAN 1.5L,1.1,Drinks,Sainsbury's,IMG_3892.jpg
+886,1.0,23/05/2022,EVIAN 1.5L,1.1,Drinks,Sainsbury's,IMG_3892.jpg
+887,1.0,23/05/2022,JS S/SKIM MLK 1.136L,0.99,Groceries - Dairy,Sainsbury's,IMG_3892.jpg
+888,1.0,23/05/2022,KLEENEX POCKETS X2,1.1,Household,Sainsbury's,IMG_3892.jpg
+889,1.0,23/05/2022,JS ADW ULTIMATES,3.25,Groceries,Sainsbury's,IMG_3892.jpg
+890,1.0,23/05/2022,JS LIMES MIN X 5,0.89,Fruits,Sainsbury's,IMG_3892.jpg
+891,1.0,23/05/2022,LISTERINE TAGD 500M,4.5,Toiletries,Sainsbury's,IMG_3892.jpg
+892,1.0,23/05/2022,CN OAT GRN FRUIT NUT,2.5,Snacks,Sainsbury's,IMG_3892.jpg
+893,1.0,23/05/2022,JS GRK STYL YOG 500G,0.9,Groceries - Dairy,Sainsbury's,IMG_3892.jpg
+894,1.0,23/05/2022,CAREX HAND GEL,1.3,Toiletries,Sainsbury's,IMG_3892.jpg
+895,1.0,23/05/2022,JS SO WHOLEMEAL 400G,1.0,Bakery,Sainsbury's,IMG_3892.jpg
+896,1.0,18/05/2022,JS GRK STYL YOG 500G,0.9,Groceries - Dairy,Sainsbury's,IMG_3886.jpg
+897,1.0,18/05/2022,TTD RSEMRY FOCACIA,1.8,Bakery,Sainsbury's,IMG_3886.jpg
+898,1.0,18/05/2022,*EVIAN 1.5L,1.1,Drinks,Sainsbury's,IMG_3886.jpg
+899,1.0,16/05/2022,YVO SEMI SKMD MILK,2.2,Groceries - Dairy,Sainsbury's,IMG_3887.jpg
+900,1.0,16/05/2022,*EVIAN 1.5L,0.8,Drinks,Sainsbury's,IMG_3887.jpg
+901,1.0,16/05/2022,CN OAT GRN FRUIT NUT,2.5,Snacks,Sainsbury's,IMG_3887.jpg
+902,1.0,16/05/2022,SMOKED MACKEREL,1.4,Groceries - Meat,Sainsbury's,IMG_3887.jpg
+903,1.0,16/05/2022,JS TURMERIC,1.5,Groceries,Sainsbury's,IMG_3887.jpg
+904,1.0,16/05/2022,*BACO BAKING PAPER,2.5,Household,Sainsbury's,IMG_3887.jpg
+905,1.0,16/05/2022,JS DWARF BEANS,1.5,Groceries,Sainsbury's,IMG_3887.jpg
+906,1.0,16/05/2022,SO MIXED PEPPERS,2.35,Vegetables,Sainsbury's,IMG_3887.jpg
+907,1.0,16/05/2022,JS PEAS 160G,1.3,Groceries,Sainsbury's,IMG_3887.jpg
+908,1.0,16/05/2022,FRESH CORIANDER 100G,1.25,Groceries,Sainsbury's,IMG_3887.jpg
+909,10.0,16/05/2022,*P/GOOD BIN BAGS X10,2.0,Household,Sainsbury's,IMG_3887.jpg
+910,1.0,16/05/2022,FULLY LOADED BROOKIE,1.6,Snacks,Sainsbury's,IMG_3887.jpg
+911,12.0,16/05/2022,JS EGGS X12,2.2,Groceries,Sainsbury's,IMG_3887.jpg
+912,1.0,29/05/2022,MINI CHCKN FLTS 640G,4.7,Groceries - Meat,Sainsbury's,IMG_3893.jpg
+913,1.0,29/05/2022,*EXTRA SPEARMINT,0.65,Groceries,Sainsbury's,IMG_3893.jpg
+914,1.0,29/05/2022,*EXTRA SPEARMINT,0.65,Groceries,Sainsbury's,IMG_3893.jpg
+915,6.0,29/05/2022,APPLES ROYAL GALA X6,1.2,Fruits,Sainsbury's,IMG_3893.jpg
+916,1.0,29/05/2022,SO S/SKIM MLK 2.272L,1.85,Groceries - Dairy,Sainsbury's,IMG_3893.jpg
+917,5.0,29/05/2022,JS FT BANANASX5,0.69,Fruits,Sainsbury's,IMG_3893.jpg
+918,1.0,31/05/2022,WR PR LARGE MANGO,3.0,Fruits,Waitrose,IMG_3878.JPG
+919,1.0,31/05/2022,WR PR LARGE MANGO,3.0,Fruits,Waitrose,IMG_3878.JPG
+920,2.0,17/05/2022,EXTRA ICE GUM SINGLE,0.6,Snacks,Sainsbury's,IMG_3885.jpg
+921,0.94,17/05/2022,BANANA FAIRTRADE LSE,0.78,Fruits,Sainsbury's,IMG_3885.jpg
+922,1.0,17/05/2022,TTD SUPER SIFF,1.1,Drinks,Sainsbury's,IMG_3885.jpg
+923,1.0,17/05/2022,JS LIMES MIX,1.1,Fruits,Sainsbury's,IMG_3885.jpg
+924,1.0,07/06/2022,JS SINGLE MANGO,0.65,Fruits,Sainsbury's,IMG_3891.jpg
+925,1.0,07/06/2022,JS SINGLE MANGO,0.65,Fruits,Sainsbury's,IMG_3891.jpg
+926,1.0,07/06/2022,TTD SUPER SEED 400G,1.0,Groceries,Sainsbury's,IMG_3891.jpg
+927,1.0,07/06/2022,JS NAT YOG 1KG,1.7,Groceries - Dairy,Sainsbury's,IMG_3891.jpg
+928,2.0,07/06/2022,JS RIPE&READY AVO X2,1.0,Fruits,Sainsbury's,IMG_3891.jpg
+929,1.0,07/06/2022,JS SATSUMAS 600G,1.3,Fruits,Sainsbury's,IMG_3891.jpg
+930,1.0,07/06/2022,JS PEAS 160G,0.93,Vegetables,Sainsbury's,IMG_3891.jpg
+931,1.19,07/06/2022,BANANA FAIRTRADE LSE,0.93,Fruits,Sainsbury's,IMG_3891.jpg
+932,2.272,07/06/2022,SO S/SKIM MLK 2.272L,1.85,Groceries - Dairy,Sainsbury's,IMG_3891.jpg
+933,1.0,07/06/2022,FRESH CORIANDER 100G,1.25,Groceries,Sainsbury's,IMG_3891.jpg
+934,1.0,07/06/2022,JSRED ONIONS,1.0,Vegetables,Sainsbury's,IMG_3891.jpg
+935,1.0,07/06/2022,JS BAG FOR LIFE,0.2,Household,Sainsbury's,IMG_3891.jpg
+936,2.272,11/06/2022,SO S/SKIM MLK 2.272L,1.95,Groceries - Dairy,Sainsbury's,IMG_3890.jpg
+937,1.0,11/06/2022,EXTRA COOL BREEZE,0.65,Drinks,Sainsbury's,IMG_3890.jpg
+938,1.0,11/06/2022,EXTRA COOL BREEZE,0.65,Drinks,Sainsbury's,IMG_3890.jpg
+939,1.0,11/06/2022,JS NAT YOG 1KG,1.7,Groceries - Dairy,Sainsbury's,IMG_3890.jpg
+940,4.0,11/06/2022,APPLE PINK LADY SNG,2.2,Fruits,Sainsbury's,IMG_3890.jpg
+941,1.0,11/06/2022,COLUMBIAN COFFEE,3.2,Groceries,Sainsbury's,IMG_3890.jpg
+942,12.0,11/06/2022,JS EGGS X12,2.2,Groceries,Sainsbury's,IMG_3890.jpg
+943,1.0,11/06/2022,JS GIN & DIET TONIC,1.0,Alcohol,Sainsbury's,IMG_3890.jpg
+944,1.0,11/06/2022,TRIVENTO RESERVE,8.0,Alcohol,Sainsbury's,IMG_3890.jpg
+945,1.0,11/06/2022,JS WHITE SDLSS GRAPE,2.0,Drinks,Sainsbury's,IMG_3890.jpg
+946,1.0,11/06/2022,VITA CO CNUT WTR 1L,2.5,Drinks,Sainsbury's,IMG_3890.jpg
+947,1.0,11/06/2022,TTD VINE TOM 300G,1.8,Groceries,Sainsbury's,IMG_3890.jpg
+948,1.0,11/06/2022,BABYLEAF SPINACH 100,1.0,Vegetables,Sainsbury's,IMG_3890.jpg
+949,1.0,11/06/2022,JS HOT STIR FRY 300G,1.6,Groceries,Sainsbury's,IMG_3890.jpg
+950,1.0,11/06/2022,ORG SALMON FILLETS,6.0,Groceries - Meat,Sainsbury's,IMG_3890.jpg
+951,1.0,11/06/2022,BONELESS HADDOCK,4.75,Groceries - Meat,Sainsbury's,IMG_3890.jpg
+952,1.0,11/06/2022,JS SEA BASS FILLETS,3.5,Groceries - Meat,Sainsbury's,IMG_3890.jpg
+953,1.0,11/06/2022,JS BAG FOR LIFE,0.2,Household,Sainsbury's,IMG_3890.jpg
+954,1.0,20/05/2022,JS GRK STYL YOG 500G,0.9,Groceries - Dairy,Sainsbury's,IMG_3884.jpg
+955,1.0,20/05/2022,CARAMILK BLOCK 90G,1.0,Snacks,Sainsbury's,IMG_3884.jpg
+956,1.0,20/05/2022,EVIAN 1.5L,1.1,Drinks,Sainsbury's,IMG_3884.jpg
+957,1.0,20/05/2022,EVIAN 1.5L,1.1,Drinks,Sainsbury's,IMG_3884.jpg
+958,1.0,20/05/2022,CN OAT GRN FRUIT NUT,2.5,Groceries,Sainsbury's,IMG_3884.jpg
+959,1.0,20/05/2022,NESCAFE ALT/RICA,4.5,Drinks,Sainsbury's,IMG_3884.jpg
+960,1.0,20/05/2022,T&L SUGAR CUBES,0.95,Groceries,Sainsbury's,IMG_3884.jpg
+961,1.0,20/05/2022,BANANA MINI LOAF,1.65,Bakery,Sainsbury's,IMG_3884.jpg
+962,1.0,20/05/2022,SO S/SKIM MLK 1.136L,1.35,Groceries - Dairy,Sainsbury's,IMG_3884.jpg
+963,1.0,20/05/2022,JS BAG FOR LIFE,0.2,Household,Sainsbury's,IMG_3884.jpg
+964,1.0,18/02/2024,Raagi Flour,3.29,Groceries,Cherry Hinton Stores,IMG_3880.JPG
+965,1.0,18/02/2024,Uthra Coriander Seeds 200g,2.49,Groceries,Cherry Hinton Stores,IMG_3880.JPG
+966,2.0,18/02/2024,Cdm Caramel Pm125,2.5,Groceries,Cherry Hinton Stores,IMG_3880.JPG
+967,0.43,18/02/2024,Cucumber,3.44,Vegetables,Cherry Hinton Stores,IMG_3880.JPG
+968,0.115,18/02/2024,Drumstick,0.92,Vegetables,Cherry Hinton Stores,IMG_3880.JPG
+969,2.0,18/02/2024,Curry Leaves,2.98,Groceries,Cherry Hinton Stores,IMG_3880.JPG
+970,1.0,18/02/2024,Methi,1.29,Groceries,Cherry Hinton Stores,IMG_3880.JPG
+971,1.0,27/05/2022,TTD SUPER SEED 400G,1.1,Groceries,Sainsbury's,IMG_3894.jpg
+972,1.0,27/05/2022,ASAHI SUPER DRY 620ML,2.2,Alcohol,Sainsbury's,IMG_3894.jpg
+973,1.0,27/05/2022,JS GRK STYL YOG 500G,0.9,Groceries - Dairy,Sainsbury's,IMG_3894.jpg
+974,1.0,28/05/2024,Brewdog Black Heat Stout 4 X 440,9.75,Alcohol,Tesco,IMG_3895.jpg
+975,1.0,28/05/2024,Lavazza Espresso Barista Intenso Coffee Beans 1kg,15.0,Groceries,Tesco,IMG_3895.jpg
+976,1.0,28/05/2024,Beavertown Neck Oil Cesston Ipa 4x330ml,8.0,Alcohol,Tesco,IMG_3895.jpg
+977,1.0,28/05/2024,Tesco Finest Prawn Mate Rose With Sea Salt Crisps 125g,1.35,Snacks,Tesco,IMG_3895.jpg
+978,1.0,28/05/2024,Innocent Peaches & Apples 750ml,2.0,Drinks,Tesco,IMG_3895.jpg
+979,1.0,28/05/2024,"Innocent Super Smoothie Recharge, Mandarin & Carrot 750ml",4.5,Drinks,Tesco,IMG_3895.jpg
+980,2.0,28/05/2024,Tesco Pistachio Nuts 200g,5.3,Snacks,Tesco,IMG_3895.jpg
+981,2.0,28/05/2024,Whitworths Crystalled Ginger 175g,4.0,Groceries,Tesco,IMG_3895.jpg
+982,1.0,28/05/2024,"Tesco British Semi Skimmed Milk 2.272l, 4 Pints",1.45,Groceries - Dairy,Tesco,IMG_3895.jpg
+983,1.0,28/05/2024,Onken Biopot Natural Yogurt 1kg,2.5,Groceries - Dairy,Tesco,IMG_3895.jpg
+984,2.0,28/05/2024,Tesco Free Range Eggs Very Large 6 Pack,4.3,Groceries,Tesco,IMG_3895.jpg
+985,1.0,28/05/2024,Fairy Platinum Antibacterial Washing Up Liquid Eucalyptus 820ml,3.0,Household,Tesco,IMG_3895.jpg
+986,2.0,28/05/2024,Tesco Chayote Loose,1.6,Vegetables,Tesco,IMG_3895.jpg
+987,3.0,28/05/2024,Tesco Garlic Large Loose,1.65,Vegetables,Tesco,IMG_3895.jpg
+988,1.0,28/05/2024,Listerine Total Care Teeth And Gum Fresh Mint Mouthwash 500ml,5.25,Toiletries,Tesco,IMG_3895.jpg
+989,1.0,28/05/2024,Tesco Carrots Loose,0.16,Vegetables,Tesco,IMG_3895.jpg
+990,1.0,28/05/2024,Tesco Limes Minimum 5 Pack,1.19,Fruits,Tesco,IMG_3895.jpg
+991,1.0,28/05/2024,Yo! Salmon Dragon Roll,6.95,Snacks,Tesco,IMG_3895.jpg
+992,1.0,28/05/2024,Tesco Ripe And Ready 2 Pack Mango,2.3,Fruits,Tesco,IMG_3895.jpg
+993,1.0,28/05/2024,Tesco Shallots Onions 400g,0.35,Vegetables,Tesco,IMG_3895.jpg
+994,1.0,28/05/2024,Tesco Tomatoes On The Vine 500g,1.2,Vegetables,Tesco,IMG_3895.jpg
+995,1.0,28/05/2024,Willow Farm Chicken Wings 900g - 1.2kg,2.09,Groceries - Meat,Tesco,IMG_3895.jpg
+996,1.0,28/05/2024,Tesco Smoked Mackerel,3.55,Groceries - Meat,Tesco,IMG_3895.jpg
+997,1.0,28/05/2024,Tesco Bird Eye Chillies 25g,0.86,Groceries,Tesco,IMG_3895.jpg
+998,1.0,28/05/2024,Tesco Finger Chillies 80g,1.0,Groceries,Tesco,IMG_3895.jpg
+999,1.0,28/05/2024,Energizer Max 9v 2 Pack,7.0,Household,Tesco,IMG_3895.jpg
+1000,1.0,28/05/2024,Durex Real Feel Condoms Latex Free Regular Fit 6's,11.0,Household,Tesco,IMG_3895.jpg
+1001,1.0,28/05/2024,Tesco Satsumas 600g,1.8,Fruits,Tesco,IMG_3895.jpg
+1002,1.0,28/05/2024,Tesco Red Seedless Grapes 500g,1.8,Fruits,Tesco,IMG_3895.jpg
+1003,1.0,28/05/2024,Tesco Apricots 320g,0.3,Fruits,Tesco,IMG_3895.jpg
+1004,1.0,28/05/2024,Tesco Red Onions Pack 1kg,0.95,Vegetables,Tesco,IMG_3895.jpg
+1005,1.0,28/05/2024,Tesco Lemons 4 Pack,1.2,Fruits,Tesco,IMG_3895.jpg
+1006,1.0,28/05/2024,Tesco Blackcurrant Jam 454g,0.89,Groceries,Tesco,IMG_3895.jpg
+1007,1.0,28/05/2024,Tesco Root Ginger Loose,1.12,Groceries,Tesco,IMG_3895.jpg
+1008,1.0,28/05/2024,Tesco Bunched Spring Onions 100g,0.59,Vegetables,Tesco,IMG_3895.jpg
+1009,1.0,28/05/2024,Fresh & Naked Spinach 125g,1.2,Vegetables,Tesco,IMG_3895.jpg
+1010,1.0,28/05/2024,Tesco 2 Cape Hake Fillets 240g,4.4,Groceries - Meat,Tesco,IMG_3895.jpg
+1011,1.0,28/05/2024,Tesco Pomegranates Each,1.5,Fruits,Tesco,IMG_3895.jpg
+1012,1.0,28/05/2024,Fish Said Fred 2 Tip Top Whole Sea Bass 520g,7.0,Groceries - Meat,Tesco,IMG_3895.jpg
+1013,1.0,28/05/2024,Tesco Finest British Cornfed Free Range Thigh Fillets 430g,4.75,Groceries - Meat,Tesco,IMG_3895.jpg
+1014,1.0,28/05/2024,Tesco Coriander Medium Pot,1.5,Groceries,Tesco,IMG_3895.jpg
+1015,1.0,28/05/2024,Maynards Bassetts Wine Gums Sweets Carton 350g,3.5,Snacks,Tesco,IMG_3895.jpg
+1016,1.0,31/05/2022,B TTD MULTISEED 400G,1.1,Bakery,Sainsbury's,IMG_3881.jpg
+1017,1.0,31/05/2022,IND NY MILL CHS CKE,1.75,Bakery,Sainsbury's,IMG_3881.jpg
+1018,1.0,31/05/2022,MCKYS STRAW PRS 340G,1.7,Snacks,Sainsbury's,IMG_3881.jpg
+1019,1.0,31/05/2022,CN OAT GRN FRUIT NUT,2.5,Snacks,Sainsbury's,IMG_3881.jpg
+1020,1.0,14/06/2020,EXTRA SPEARMINT,0.65,Snacks,Sainsbury's,IMG_3897.jpg
+1021,1.0,14/06/2020,EXTRA SPEARMINT,0.65,Snacks,Sainsbury's,IMG_3897.jpg
+1022,1.0,14/06/2020,TTD SUPER SEED 400G,1.1,Groceries,Sainsbury's,IMG_3897.jpg
+1023,1.0,14/06/2020,CN OAT GRN FRUIT NUT,2.5,Groceries,Sainsbury's,IMG_3897.jpg
+1024,1.0,14/06/2020,IND NY MILL CHS CKE,1.75,Bakery,Sainsbury's,IMG_3897.jpg
+1025,1.0,14/06/2020,YV ORG WHOLE MILK,1.75,Groceries - Dairy,Sainsbury's,IMG_3897.jpg
+1026,1.0,14/06/2020,JS FINGER CHILLIES,1.0,Vegetables,Sainsbury's,IMG_3897.jpg
+1027,1.0,14/06/2020,VITA CO CNUT WTR 1L,2.5,Drinks,Sainsbury's,IMG_3897.jpg
+1028,5.0,14/06/2020,JS FT BANANASX5,0.71,Fruits,Sainsbury's,IMG_3897.jpg
+1029,1.0,22/05/2022,Tesco 2x Chicken Breast Fillets 300g,2.1,Groceries - Meat,Tesco,IMG_3883.jpg
+1030,1.0,22/05/2022,Tesco 2 Boneless Salmon Fillets 260g,4.25,Groceries - Meat,Tesco,IMG_3883.jpg
+1031,1.0,22/05/2022,Tesco Closed Cup Mushrooms 300g (c),1.1,Groceries,Tesco,IMG_3883.jpg
+1032,1.0,22/05/2022,Tesco Organic Fair Trade Bananas 5 Pack,1.55,Fruits,Tesco,IMG_3883.jpg
+1033,1.0,22/05/2022,Tilda Basmati Rice 500g,3.15,Groceries,Tesco,IMG_3883.jpg
+1034,1.0,22/05/2022,Tesco Pink Lady Apple Min 6 Pack (c),3.25,Fruits,Tesco,IMG_3883.jpg
+1035,3.0,22/05/2022,Tesco Red Onions Each (c) £0.30 each,0.9,Vegetables,Tesco,IMG_3883.jpg
+1036,1.0,22/05/2022,Tesco Quinoa 300g,2.3,Groceries,Tesco,IMG_3883.jpg
+1037,1.0,05/06/2022,CN OAT GRN FRUIT NUT,2.5,Groceries,Sainsbury's,IMG_3882.jpg
+1038,1.0,05/06/2022,CN OAT GRN FRUIT NUT,2.5,Groceries,Sainsbury's,IMG_3882.jpg
+1039,1.0,05/06/2022,*EXTRA SPEARMINT,0.65,Snacks,Sainsbury's,IMG_3882.jpg
+1040,1.0,05/06/2022,*EXTRA SPEARMINT,0.65,Snacks,Sainsbury's,IMG_3882.jpg
+1041,1.0,05/06/2022,TTD SUPER SEED 400G,1.1,Groceries,Sainsbury's,IMG_3882.jpg
+1042,1.0,05/06/2022,TTD VITTORIA TOMS,2.25,Groceries,Sainsbury's,IMG_3882.jpg
+1043,1.0,05/06/2022,TTD VITTORIA TOMS,2.25,Groceries,Sainsbury's,IMG_3882.jpg
+1044,0.394,05/06/2022,CARROTS LOOSE,0.14,Vegetables,Sainsbury's,IMG_3882.jpg
+1045,1.0,05/06/2022,IND NY MILL CHS CKE,1.75,Bakery,Sainsbury's,IMG_3882.jpg
+1046,6.0,05/06/2022,JS LARGE EGGS X6,1.4,Groceries - Dairy,Sainsbury's,IMG_3882.jpg
